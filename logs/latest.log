@@ -490,3 +490,68 @@ my server is a baby!<--[HERE]
 [17:06:19] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CensingSmile123 joined (UUID: 00000000-0000-0000-0009-01f322b1b6b3)
 [17:06:19] [Server thread/INFO]: .CensingSmile123 joined the game
 [17:06:19] [Server thread/INFO]: .CensingSmile123[/127.0.0.1:0] logged in with entity id 25 at ([world]-217.84784, 94.20966, 113.86418)
+[17:07:19] [Craft Scheduler Thread - 19 - InteractiveChat/INFO]: [Not Secure] .CensingSmile123: RAJESH
+[17:07:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+diddy<--[HERE]
+[17:07:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
+e<--[HERE]
+[17:07:30] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /gc 
+[17:07:30] [Server thread/INFO]: Uptime: 7 minutes 32 seconds
+[17:07:30] [Server thread/INFO]: Current TPS = 20
+[17:07:30] [Server thread/INFO]: Maximum memory: 7,168 MB.
+[17:07:30] [Server thread/INFO]: Allocated memory: 6,144 MB.
+[17:07:30] [Server thread/INFO]: Free memory: 3,977 MB.
+[17:07:30] [Server thread/INFO]: World "world": 674 chunks, 861 entities, 906 tiles.
+[17:07:30] [Server thread/INFO]: Nether "world_nether": 49 chunks, 13 entities, 0 tiles.
+[17:07:30] [Server thread/INFO]: The End "world_the_end": 49 chunks, 10 entities, 0 tiles.
+[17:07:30] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /gc 
+[17:07:30] [Server thread/INFO]: Uptime: 7 minutes 33 seconds
+[17:07:30] [Server thread/INFO]: Current TPS = 20
+[17:07:30] [Server thread/INFO]: Maximum memory: 7,168 MB.
+[17:07:30] [Server thread/INFO]: Allocated memory: 6,144 MB.
+[17:07:30] [Server thread/INFO]: Free memory: 3,947 MB.
+[17:07:30] [Server thread/INFO]: World "world": 674 chunks, 860 entities, 906 tiles.
+[17:07:30] [Server thread/INFO]: Nether "world_nether": 49 chunks, 13 entities, 0 tiles.
+[17:07:30] [Server thread/INFO]: The End "world_the_end": 49 chunks, 10 entities, 0 tiles.
+[17:07:31] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /gc 
+[17:07:31] [Server thread/INFO]: Uptime: 7 minutes 33 seconds
+[17:07:31] [Server thread/INFO]: Current TPS = 20
+[17:07:31] [Server thread/INFO]: Maximum memory: 7,168 MB.
+[17:07:31] [Server thread/INFO]: Allocated memory: 6,144 MB.
+[17:07:31] [Server thread/INFO]: Free memory: 3,921 MB.
+[17:07:31] [Server thread/INFO]: World "world": 674 chunks, 860 entities, 906 tiles.
+[17:07:31] [Server thread/INFO]: Nether "world_nether": 49 chunks, 13 entities, 0 tiles.
+[17:07:31] [Server thread/INFO]: The End "world_the_end": 49 chunks, 10 entities, 0 tiles.
+[17:07:32] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /gc 
+[17:07:32] [Server thread/INFO]: Uptime: 7 minutes 34 seconds
+[17:07:32] [Server thread/INFO]: Current TPS = 20
+[17:07:32] [Server thread/INFO]: Maximum memory: 7,168 MB.
+[17:07:32] [Server thread/INFO]: Allocated memory: 6,144 MB.
+[17:07:32] [Server thread/INFO]: Free memory: 3,893 MB.
+[17:07:32] [Server thread/INFO]: World "world": 674 chunks, 859 entities, 906 tiles.
+[17:07:32] [Server thread/INFO]: Nether "world_nether": 49 chunks, 13 entities, 0 tiles.
+[17:07:32] [Server thread/INFO]: The End "world_the_end": 49 chunks, 10 entities, 0 tiles.
+[17:07:33] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /gc 
+[17:07:33] [Server thread/INFO]: Uptime: 7 minutes 35 seconds
+[17:07:33] [Server thread/INFO]: Current TPS = 20
+[17:07:33] [Server thread/INFO]: Maximum memory: 7,168 MB.
+[17:07:33] [Server thread/INFO]: Allocated memory: 6,144 MB.
+[17:07:33] [Server thread/INFO]: Free memory: 3,867 MB.
+[17:07:33] [Server thread/INFO]: World "world": 674 chunks, 859 entities, 906 tiles.
+[17:07:33] [Server thread/INFO]: Nether "world_nether": 49 chunks, 13 entities, 0 tiles.
+[17:07:33] [Server thread/INFO]: The End "world_the_end": 49 chunks, 10 entities, 0 tiles.
+[17:08:01] [Server thread/INFO]: .CensingSmile123 issued server command: /minecraft:kill @e[type=item]
+[17:08:01] [Server thread/INFO]: [.CensingSmile123: Killed 405 entities]
+[17:08:33] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /rules 
+[17:08:33] [Server thread/INFO]:  ---- Rules -- Page 1/1 ----
+[17:08:33] [Server thread/INFO]: [1] Be respectful
+[17:08:33] [Server thread/INFO]: [2] Be ethical pfft... ethics get you nowhere.
+[17:08:33] [Server thread/INFO]: [3] Use common sense Brainrot.
+[17:09:08] [Paper Async Task Handler Thread - 0/INFO]: [⚡] spark v1.10.119
+[17:09:08] [Paper Async Task Handler Thread - 0/INFO]: [⚡] Run /spark help to view usage information.
+[17:09:27] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /sudo censingsmile123 e
+[17:09:27] [Server thread/INFO]: Forcing censingsmile123 to run: /e
+[17:09:27] [Server thread/INFO]: .CensingSmile123 issued server command: /e
+[17:09:35] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /sudo censingsmile123 tpsbar
+[17:09:35] [Server thread/INFO]: Forcing censingsmile123 to run: /tpsbar
+[17:09:35] [Server thread/INFO]: .CensingSmile123 issued server command: /tpsbar
