@@ -2,7 +2,7 @@ echo off
 cls
 
 :start
-java -jar -Xms6G -Xmx7G NogyangSpigotCraftBukkit-paperclip-1.21.4-R0.1-SNAPSHOT-reobf.jar
+java -jar -Xms13G -Xmx13G NogyangSpigotCraftBukkit-paperclip-1.21.4-R0.1-SNAPSHOT-reobf.jar
 goto restart
 
 :restart
