@@ -7,3 +7,7 @@ sanitizeAllUserFilenames: true
 updateUsersPowerToolsFormat: true
 updateUsersHomesFormat: true
 banFormatChange: true
+updateLegacyToAdventure: true
+newUidCacheBuilt: true
+kitsyml: true
+updateRandomTeleport: true
