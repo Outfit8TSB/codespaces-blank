@@ -11,3 +11,7 @@ updateLegacyToAdventure: true
 newUidCacheBuilt: true
 kitsyml: true
 updateRandomTeleport: true
+updateUsersIgnoreListUUID: true
+updateUsersStupidLegacyPathNames: true
+updateUsersMailList: true
+updatePurgeBrokenNpcAccounts: true

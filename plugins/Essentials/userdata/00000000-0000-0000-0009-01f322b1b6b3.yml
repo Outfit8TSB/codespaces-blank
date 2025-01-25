@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: ''
+ip-address: 127.0.0.1
 afk: false
 socialspy: false
 npc: false
@@ -16,14 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1737796279428
-  login: 0
+  logout: 1737796943303
+  login: 1737796895234
 money: '0'
 logoutlocation:
   world: c0654828-629c-4d19-a6cd-149c8afb9e68
   world-name: world
-  x: -5.5
-  y: 135.0
-  z: 0.5
-  yaw: 0.0
-  pitch: 0.0
+  x: -35.09213
+  y: 172.0
+  z: -31.012005
+  yaw: 21.140975952148438
+  pitch: 38.538238525390625
+last-account-name: .CensingSmile123

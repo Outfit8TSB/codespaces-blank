@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "00000000-0000-0000-0009-01f322b1b6b3",
+    "name": ".CensingSmile123",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
