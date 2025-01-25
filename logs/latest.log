@@ -355,3 +355,133 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [17:00:31] [Server thread/INFO]: [ntdLuckyBlock] TokenManager not found
 [17:00:31] [Server thread/INFO]: [ntdLuckyBlock] WorldGuard not found
 [17:00:31] [Server thread/INFO]: [ntdLuckyBlock] Found 3/5 compatible plugins
+[17:00:31] [Server thread/INFO]: [ntdLuckyBlock] Loading system...
+[17:00:31] [Server thread/INFO]: [ntdLuckyBlock] Loaded 11 internal custom items...
+[17:00:31] [Server thread/INFO]: [ntdLuckyBlock] Loaded 11 custom items... (Total)
+[17:00:31] [Server thread/INFO]: [ntdLuckyBlock] Loaded 16 luckyblock types...
+[17:00:31] [Server thread/INFO]: [ntdLuckyBlock] System loaded (took 96 ms)...
+[17:00:31] [Server thread/INFO]: [ntdLuckyBlock] If you love my plugin, support me with 5 stars review(https://www.spigotmc.org/resources/92026/) or consider to purchase premium plugin version (https://www.spigotmc.org/resources/94872/)
+[17:00:31] [Server thread/INFO]: [ntdLuckyBlock] Enabled (took 188 ms)... 
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Enabling PurpleIRC v1.0-352*
+[17:00:31] [Server thread/INFO]: [PurpleIRC] MC version detected: 1.21.4-DEV-e9ce664 (MC: 1.21.4)
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Registering GamePlayerPlayerAdvancementDoneListener because version >= 1.12
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Detecting plugin hooks...
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: Herochat
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: GriefPrevention
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: TitanChat
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: VentureChat
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: Prism
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: RedditStream
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: TownyChat
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: CleverNotch
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: mcMMO
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: FactionChat
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: AdminPrivateChat
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: CommandBook
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: Jobs
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: DeathMessages
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: DeathMessagesPrime
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: Shortify
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: dynmap
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: OreBroadcast
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: VanishNoPacket
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: SuperVanish
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: SuperVanish
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: ReportRTS
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: SimpleTicketManager
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: NTheEndAgain
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook enabled: Essentials
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook enabled: PlaceholderAPI
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: DiscordSRV
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: UltimateChat
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Checking for bot files in plugins/PurpleIRC/bots
+[17:00:31] [Server thread/INFO]: [PurpleIRC] Hooked into Vault v1.7.2-b107
+[17:00:31] [Server thread/INFO]: [InteractiveChat] Enabling InteractiveChat v4.2.16.0
+[17:00:32] [Server thread/INFO]: [InteractiveChat] Opened Sqlite database successfully
+[17:00:32] [Server thread/INFO]: [InteractiveChat] InteractiveChat has hooked into Essentials!
+[17:00:32] [Server thread/INFO]: [InteractiveChat] InteractiveChat has hooked into ViaVersion!
+[17:00:32] [Server thread/INFO]: [InteractiveChat] InteractiveChat has hooked into Floodgate!
+[17:00:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: interactivechat [4.2.16.0]
+[17:00:32] [Server thread/INFO]: [InteractiveChat] InteractiveChat has been Enabled!
+[17:00:32] [Server thread/INFO]: [RandomTP] Enabling RandomTP v2.3*
+[17:00:32] [Server thread/INFO]: [RandomTP] Checking/Fixing format of portals.yml
+[17:00:32] [Server thread/INFO]: [ChestShop] Enabling ChestShop v3.8.13-SNAPSHOT (build #41)*
+[17:00:32] [Server thread/INFO]: [ChestShop] Vault loaded! Found an economy plugin!
+[17:00:32] [Server thread/INFO]: [AutoMessage] Enabling AutoMessage v2.5.5*
+[17:00:32] [Server thread/INFO]: [RotatoR] Enabling RotatoR v1.0.6
+[17:00:33] [Server thread/INFO]: [spark] Starting background profiler...
+[17:00:33] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[17:00:33] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[17:00:33] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:00:33] [Server thread/INFO]: [Geyser-Spigot] 
+[17:00:33] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b751 (git-master-5836dab)
+[17:00:33] [Server thread/INFO]: [Geyser-Spigot] 
+[17:00:33] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:00:37] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
+[17:00:37] [Server thread/INFO]: [Geyser-Spigot] Done (3.734s)! Run /geyser help for help!
+[17:00:37] [Server thread/INFO]: Done preparing level "world" (16.068s)
+[17:00:37] [Server thread/INFO]: Running delayed init tasks
+[17:00:37] [Craft Scheduler Thread - 7 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[17:00:37] [Craft Scheduler Thread - 10 - InteractiveChat/INFO]: [InteractiveChat] Loading languages...
+[17:00:37] [Server thread/INFO]: [Slimefun] Collecting Snapshots of all Recipes...
+[17:00:37] [Craft Scheduler Thread - 8 - Essentials/INFO]: [Essentials] Fetching version information...
+[17:00:37] [Server thread/INFO]: [Slimefun] Found 1,370 Recipes!
+[17:00:38] [Server thread/INFO]: 
+[17:00:38] [Server thread/INFO]: ######################### - Slimefun vPreview Build - #########################
+[17:00:38] [Server thread/INFO]: 
+[17:00:38] [Server thread/INFO]: Successfully loaded 555 Items and 258 Researches
+[17:00:38] [Server thread/INFO]: ( 555 Items from Slimefun, 0 Items from 2 Addons )
+[17:00:38] [Server thread/INFO]: 
+[17:00:38] [Server thread/INFO]: Slimefun is an Open-Source project that is kept alive by a large community.
+[17:00:38] [Server thread/INFO]: Consider helping us maintain this project by contributing on GitHub!
+[17:00:38] [Server thread/INFO]:  - UNOFFICIALLY MODIFIED BUILD - NO OFFICIAL SUPPORT GIVEN
+[17:00:38] [Server thread/INFO]: 
+[17:00:38] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world"
+[17:00:38] [Server thread/INFO]: [Slimefun] This may take a long time...
+[17:00:38] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[17:00:38] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world"
+[17:00:38] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_nether"
+[17:00:38] [Server thread/INFO]: [Slimefun] This may take a long time...
+[17:00:38] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[17:00:38] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_nether"
+[17:00:38] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_the_end"
+[17:00:38] [Server thread/INFO]: [Slimefun] This may take a long time...
+[17:00:38] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[17:00:38] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_the_end"
+[17:00:38] [Server thread/INFO]: [dough: protection] Loading Protection Modules...
+[17:00:38] [Server thread/INFO]: [dough: protection] This may happen more than once.
+[17:00:38] [Server thread/INFO]: [dough: protection] Loaded Protection Module "Towny v0.100.4.0"
+[17:00:38] [Server thread/INFO]: [dough: protection] Loaded Protection Module "LogBlock"
+[17:00:38] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.2-b107)!
+[17:00:38] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
+[17:00:38] [Server thread/WARN]: [AngelChest] ***************************************************
+[17:00:38] [Server thread/WARN]: [AngelChest] * There is a new version of AngelChest available!
+[17:00:38] [Server thread/WARN]: [AngelChest] *  
+[17:00:38] [Server thread/WARN]: [AngelChest] * Your version:   §c13.6.1
+[17:00:38] [Server thread/WARN]: [AngelChest] * Latest version: §a13.9.0
+[17:00:38] [Server thread/WARN]: [AngelChest] *  
+[17:00:38] [Server thread/WARN]: [AngelChest] * Please update to the newest version.
+[17:00:38] [Server thread/WARN]: [AngelChest] *  
+[17:00:38] [Server thread/WARN]: [AngelChest] * Download (Plus):
+[17:00:38] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/88214
+[17:00:38] [Server thread/WARN]: [AngelChest] *  
+[17:00:38] [Server thread/WARN]: [AngelChest] * Download (Free):
+[17:00:38] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/60383
+[17:00:38] [Server thread/WARN]: [AngelChest] ***************************************************
+[17:00:38] [Server thread/INFO]: Done (39.901s)! For help, type "help"
+[17:00:38] [Craft Scheduler Thread - 5 - BlueSlimeCore/INFO]: [Blue Slime Core]  
+[17:00:38] [Craft Scheduler Thread - 5 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] There are no updates available for plugin 'BlueSlimeCore'.
+[17:00:39] [Craft Scheduler Thread - 9 - InteractiveChat/INFO]: [InteractiveChat] Loaded all 1 languages!
+[17:00:40] [Server thread/INFO]: [AngelChest] ========================================================
+[17:00:40] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[17:00:40] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[17:00:40] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[17:00:40] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[17:00:40] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[17:00:40] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[17:00:40] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[17:00:40] [Server thread/INFO]: [AngelChest] 
+[17:00:40] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[17:00:40] [Server thread/INFO]: [AngelChest] ========================================================
+[17:01:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+my server is a baby!<--[HERE]
