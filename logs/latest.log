@@ -680,3 +680,10 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [17:27:41] [Server thread/WARN]: .CensingSmile123 moved too quickly! -4.216920000000016,0.6839900000000085,15.639475999999995
 [17:27:41] [Server thread/WARN]: .CensingSmile123 moved too quickly! -4.216920000000016,0.6839900000000085,15.639475999999995
 [17:27:42] [Server thread/WARN]: .CensingSmile123 moved too quickly! -1.3894000000000233,4.00394,9.855258000000006
+[17:30:05] [Server thread/INFO]: .CensingSmile123 issued server command: /gc
+[17:30:07] [Server thread/INFO]: .CensingSmile123 issued server command: /gc
+[17:30:08] [Server thread/INFO]: .CensingSmile123 issued server command: /gc
+[17:30:18] [Craft Scheduler Thread - 21 - InteractiveChat/INFO]: [Not Secure] .CensingSmile123: §f[Spruce Trapdoor §bx64§f]§r hello nig
+[17:30:34] [Craft Scheduler Thread - 23 - InteractiveChat/INFO]: [Not Secure] .CensingSmile123: §f[Flint and Steel]§r hello
+[17:30:50] [Craft Scheduler Thread - 21 - InteractiveChat/INFO]: [Not Secure] .CensingSmile123: im from england
+[17:30:58] [Craft Scheduler Thread - 25 - InteractiveChat/INFO]: [Not Secure] .CensingSmile123: AMERICA
