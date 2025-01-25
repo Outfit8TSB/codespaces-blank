@@ -538,3 +538,34 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [17:13:14] [Server thread/INFO]: .CensingSmile123 issued server command: /ram
 [17:13:26] [Server thread/INFO]: .CensingSmile123 issued server command: /icbm
 [17:13:29] [Server thread/INFO]: .CensingSmile123 issued server command: /pl
+[17:19:40] [Server thread/WARN]: .CensingSmile123 moved too quickly! -8.585810000000038,4.668440000000004,-2.6684569999999965
+[17:20:38] [Server thread/INFO]: .CensingSmile123 issued server command: //pyramid 20
+[17:20:39] [Server thread/WARN]: .CensingSmile123 moved too quickly! 0.0,-10.59747999999999,0.0
+[17:20:39] [Craft Scheduler Thread - 14 - InteractiveChat/INFO]: [Not Secure] .CensingSmile123: wjat
+[17:20:49] [Server thread/INFO]: .CensingSmile123 issued server command: //pyramid lava 20
+[17:21:39] [Server thread/INFO]: .CensingSmile123 issued server command: /setblock ~ ~ ~ water
+[17:21:39] [Server thread/INFO]: [.CensingSmile123: Changed the block at -155, 176, -32]
+[17:21:40] [Server thread/WARN]: .CensingSmile123 moved too quickly! -2.205430000000007,-10.118329999999986,-3.8279470000000018
+[17:22:17] [Server thread/INFO]: .CensingSmile123 issued server command: //pyramid lava 20
+[17:23:01] [Server thread/INFO]: .CensingSmile123 issued server command: /setblock ~ ~ ~ water
+[17:23:01] [Server thread/INFO]: [.CensingSmile123: Changed the block at -9, 220, 1]
+[17:23:11] [Server thread/INFO]: .CensingSmile123 issued server command: /setblock ~ ~ ~ water
+[17:23:11] [Server thread/INFO]: [.CensingSmile123: Changed the block at -13, 215, 85]
+[17:23:17] [Server thread/INFO]: .CensingSmile123 issued server command: //pyramid lava 20
+[17:23:41] [Server thread/WARN]: .CensingSmile123 moved too quickly! -9.185060999999997,0.009430000000008931,5.564475000000002
+[17:23:45] [Server thread/INFO]: .CensingSmile123 issued server command: /egc
+[17:23:47] [Server thread/INFO]: .CensingSmile123 issued server command: /egc
+[17:23:48] [Server thread/INFO]: .CensingSmile123 issued server command: /egc
+[17:23:49] [Server thread/INFO]: .CensingSmile123 issued server command: /egc
+[17:23:51] [Server thread/INFO]: .CensingSmile123 issued server command: /egc
+[17:23:52] [Server thread/INFO]: .CensingSmile123 issued server command: /egc
+[17:23:54] [Server thread/INFO]: .CensingSmile123 issued server command: /egc
+[17:23:55] [Server thread/INFO]: .CensingSmile123 issued server command: /egc
+[17:23:56] [Server thread/INFO]: .CensingSmile123 issued server command: /egc
+[17:24:04] [Server thread/INFO]: .CensingSmile123 issued server command: /spark:gc
+[17:24:07] [Server thread/INFO]: .CensingSmile123 issued server command: /spark
+[17:24:12] [Server thread/INFO]: .CensingSmile123 issued server command: /spark
+[17:24:40] [Server thread/INFO]: .CensingSmile123 issued server command: //pyramid air 20
+[17:24:57] [Server thread/INFO]: .CensingSmile123 issued server command: //pyramid air 20
+[17:25:05] [Server thread/INFO]: .CensingSmile123 issued server command: //pyramid air 20
+[17:25:12] [Server thread/INFO]: .CensingSmile123 issued server command: //pyramid air 20
