@@ -485,3 +485,8 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [17:00:40] [Server thread/INFO]: [AngelChest] ========================================================
 [17:01:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
 my server is a baby!<--[HERE]
+[17:06:18] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username CensingSmile123
+[17:06:18] [localSession-7-2/INFO]: [Geyser-Spigot] CensingSmile123 (logged in as: CensingSmile123) has connected to the Java server
+[17:06:19] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CensingSmile123 joined (UUID: 00000000-0000-0000-0009-01f322b1b6b3)
+[17:06:19] [Server thread/INFO]: .CensingSmile123 joined the game
+[17:06:19] [Server thread/INFO]: .CensingSmile123[/127.0.0.1:0] logged in with entity id 25 at ([world]-217.84784, 94.20966, 113.86418)
