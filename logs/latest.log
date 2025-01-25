@@ -688,3 +688,84 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [17:30:50] [Craft Scheduler Thread - 21 - InteractiveChat/INFO]: [Not Secure] .CensingSmile123: im from england
 [17:30:58] [Craft Scheduler Thread - 25 - InteractiveChat/INFO]: [Not Secure] .CensingSmile123: AMERICA
 [17:33:56] [Craft Scheduler Thread - 23 - Slimefun/INFO]: [Slimefun] Auto-saved all player data for 1 player(s)!
+[17:34:55] [localSession-7-2/INFO]: [Geyser-Spigot] CensingSmile123 has disconnected from the Java server because of Bedrock client disconnected
+[17:34:55] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CensingSmile123 disconnected
+[17:34:55] [Server thread/INFO]: .CensingSmile123 lost connection: Disconnected
+[17:34:55] [Server thread/INFO]: .CensingSmile123 left the game
+[17:35:06] [Server thread/INFO]: Stopping the server
+[17:35:06] [Server thread/INFO]: Stopping server
+[17:35:06] [Server thread/INFO]: [RotatoR] Disabling RotatoR v1.0.6
+[17:35:06] [Server thread/INFO]: [AutoMessage] Disabling AutoMessage v2.5.5
+[17:35:06] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.5
+[17:35:06] [Server thread/INFO]: [ChestShop] Disabling ChestShop v3.8.13-SNAPSHOT (build #41)
+[17:35:06] [Server thread/INFO]: [RandomTP] Disabling RandomTP v2.3
+[17:35:06] [Server thread/INFO]: [Blue Slime Core] Disabling BlueSlimeCore v2.9.6.448
+[17:35:06] [Server thread/INFO]: [InteractiveChat] Disabling InteractiveChat v4.2.16.0
+[17:35:06] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion interactivechat
+[17:35:06] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin InteractiveChat was disabled.
+[17:35:06] [Server thread/INFO]: [InteractiveChat] InteractiveChat has been Disabled!
+[17:35:06] [Server thread/INFO]: [PurpleIRC] Disabling PurpleIRC v1.0-352
+[17:35:06] [Server thread/INFO]: [PurpleIRC] No IRC bots to disconnect.
+[17:35:06] [Server thread/INFO]: [ntdLuckyBlock] Disabling ntdLuckyBlock v2.8.28
+[17:35:06] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.37-SNAPSHOT (build 3703)
+[17:35:06] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.6.1
+[17:35:06] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.0.0
+[17:35:06] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[17:35:06] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[17:35:06] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[17:35:06] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[17:35:06] [Server thread/INFO]: [NBTAPI] Disabling NBTAPI v2.14.1
+[17:35:06] [Server thread/INFO]: [LunaChat] Disabling LunaChat v3.0.16
+[17:35:06] [Server thread/INFO]: [LogBlock] Disabling LogBlock v1.14.1-SNAPSHOT (build #65)
+[17:35:06] [Server thread/INFO]: [LogBlock] Waiting for consumer ...
+[17:35:06] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.1
+[17:35:06] [Server thread/INFO]: [Towny] Disabling Towny v0.100.4.0
+[17:35:06] [Server thread/INFO]: ==============================================================
+[17:35:06] [Server thread/INFO]: [Towny] Finishing File IO Tasks...
+[17:35:06] [Server thread/INFO]: [Towny] Finishing Universe Tasks...
+[17:35:06] [Server thread/INFO]: [Towny] Version: 0.100.4.0 - Plugin Disabled
+[17:35:06] [Server thread/INFO]: =============================================================
+[17:35:06] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+160-e2295c1
+[17:35:06] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
+[17:35:06] [Server thread/INFO]: [Slimefun] Disabling Slimefun vPreview Build
+[17:35:06] [Server thread/INFO]: [Slimefun] Backed up Slimefun data to: 2025-01-25-17-35.zip
+[17:35:06] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[17:35:06] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[17:35:06] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.11-SNAPSHOT+7005-5bc41bc
+[17:35:06] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[17:35:06] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[17:35:06] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
+[17:35:06] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[17:35:06] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[17:35:06] [Server thread/INFO]: Saving players
+[17:35:06] [Server thread/INFO]: Saving worlds
+[17:35:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:35:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[17:35:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[17:35:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[17:35:06] [WebSocketConnectReadThread-114/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[17:35:06] [Server thread/INFO]: [ChunkHolderManager] Saved 26 block chunks, 65 entity chunks, 0 poi chunks in world 'world' in 0.18s
+[17:35:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[17:35:06] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[17:35:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:35:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[17:35:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[17:35:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[17:35:07] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[17:35:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[17:35:07] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[17:35:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:35:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[17:35:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[17:35:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[17:35:07] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[17:35:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[17:35:07] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[17:35:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:35:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:35:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:35:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:35:07] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[17:35:07] [Server thread/INFO]: All I/O tasks to complete
+[17:35:07] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[17:35:07] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
