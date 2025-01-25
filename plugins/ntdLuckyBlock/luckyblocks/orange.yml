@@ -1,0 +1,112 @@
+texture: bd3a1436e0fd5f3e4d113a092c1d07a12e22d426c50183ccd62877d9cd885fbd
+name: '&6Orange LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : GOLDEN_HORSE_ARMOR : 1 : 0'
+  - 'ENTITY : CHERRY_CHEST_BOAT : 2'
+  '1':
+  - 'ITEM : BLAZE_SPAWN_EGG : 51 : 0'
+  - 'ITEM : VAULT : 64 : 0'
+  '2':
+  - 'ENTITY : SPAWNER_MINECART : 4'
+  - 'ITEM : LIME_STAINED_GLASS_PANE : 32 : 0'
+  '3':
+  - 'ENTITY : FIREWORK_ROCKET : 2'
+  - 'ENTITY : AREA_EFFECT_CLOUD : 1'
+  '4':
+  - 'ENTITY : JUNGLE_CHEST_BOAT : 2'
+  '5':
+  - 'ITEM : ENCHANTED_BOOK : 1 : 0'
+  '6':
+  - 'ENTITY : DARK_OAK_BOAT : 2'
+  - 'ITEM : PALE_OAK_PLANKS : 8 : 0'
+  '7':
+  - 'ENTITY : SHEEP : 1'
+  '8':
+  - 'ITEM : SOUL_CAMPFIRE : 64 : 0'
+  '9':
+  - 'ITEM : VINDICATOR_SPAWN_EGG : 24 : 0'
+  '10':
+  - 'ENTITY : LIGHTNING_BOLT : 4'
+  - 'ENTITY : CHERRY_BOAT : 1'
+  '11':
+  - 'ENTITY : DOLPHIN : 1'
+  - 'ITEM : HOPPER_MINECART : 1 : 0'
+  - 'ENTITY : ZOMBIE_VILLAGER : 4'
+  '12':
+  - 'ITEM : ACACIA_PLANKS : 16 : 0'
+  - 'ENTITY : WITHER_SKELETON : 4'
+  '13':
+  - 'ITEM : BAMBOO_MOSAIC : 16 : 0'
+  - 'ENTITY : GLOW_SQUID : 1'
+  '14':
+  - 'ITEM : PHANTOM_MEMBRANE : 23 : 0'
+  - 'ENTITY : ALLAY : 1'
+  '15':
+  - 'ENTITY : PAINTING : 1'
+  '16':
+  - 'ITEM : STRIPPED_WARPED_HYPHAE : 8 : 0'
+  - 'ITEM : PUMPKIN : 64 : 0'
+  - 'ENTITY : VINDICATOR : 3'
+  '17':
+  - 'ITEM : IRON_AXE : 1 : 0'
+  - 'ENTITY : DARK_OAK_CHEST_BOAT : 1'
+  - 'ENTITY : SNIFFER : 2'
+  '18':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '19':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ITEM : WAXED_COPPER_BULB : 16 : 0'
+  - 'ITEM : SAND : 8 : 0'
+  - 'ITEM : ARMADILLO_SPAWN_EGG : 20 : 0'
+  '20':
+  - 'ENTITY : ZOMBIFIED_PIGLIN : 2'
+  '21':
+  - 'ITEM : BONE : 58 : 0'
+  - 'ITEM : PALE_OAK_SIGN : 16 : 0'
+  - 'ITEM : BAMBOO : 16 : 0'
+  '22':
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'LUCKY_BLOCK_ITEM : ORANGE : 2'
+  - 'ENTITY : MANGROVE_CHEST_BOAT : 1'
+  '23':
+  - 'ENTITY : SPAWNER_MINECART : 2'
+  - 'ITEM : LODESTONE : 32 : 0'
+  - 'LUCKY_BLOCK_ITEM : BROWN : 1'
+  '24':
+  - 'ITEM : STRUCTURE_VOID : 32 : 0'
+  - 'ENTITY : FIREBALL : 2'
+  '25':
+  - 'ITEM : POLISHED_BLACKSTONE_SLAB : 8 : 0'
+  - 'ITEM : OAK_CHEST_BOAT : 1 : 0'
+  '26':
+  - 'ENTITY : SKELETON_HORSE : 1'
+  - 'ITEM : POLISHED_DEEPSLATE : 32 : 0'
+  '27':
+  - 'ENTITY : ARMOR_STAND : 4'
+  - 'ITEM : POLISHED_DIORITE : 16 : 0'
+  '28':
+  - 'ENTITY : ENDERMAN : 2'
+  - 'ENTITY : BEE : 4'
+  '29':
+  - 'ENTITY : PARROT : 4'
+  '30':
+  - 'ITEM : DEEPSLATE_TILE_SLAB : 32 : 0'
+  - 'LUCKY_BLOCK_ITEM : PINK : 4'
+  - 'ITEM : BLACK_BANNER : 8 : 0'
+  '31':
+  - 'ENTITY : SLIME : 2'
+  - 'SPECIAL : LIGHTNING : 3'
+  '32':
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 4'
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 4'
+eco: true

@@ -1,0 +1,96 @@
+texture: 11a367164bc6852c8f078811de7baacaefd6964960ebff1fa504c7b4b1298a52
+name: '&dPink LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ENTITY : SQUID : 3'
+  - 'ITEM : LAPIS_ORE : 64 : 0'
+  - 'ENTITY : WITHER : 1'
+  '1':
+  - 'ITEM : FIREWORK_ROCKET : 53 : 0'
+  - 'ITEM : YELLOW_STAINED_GLASS_PANE : 8 : 0'
+  '2':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ITEM : BLACK_STAINED_GLASS_PANE : 16 : 0'
+  '3':
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 4'
+  '4':
+  - 'ITEM : CUT_COPPER_SLAB : 32 : 0'
+  - 'ITEM : TURTLE_SPAWN_EGG : 6 : 0'
+  '5':
+  - 'ITEM : BLACK_BED : 1 : 0'
+  - 'ITEM : LIGHT_BLUE_BANNER : 16 : 0'
+  - 'ENTITY : ILLUSIONER : 3'
+  '6':
+  - 'ENTITY : TROPICAL_FISH : 1'
+  - 'ITEM : TRIDENT : 1 : 0'
+  '7':
+  - 'LUCKY_BLOCK_ITEM : GRAY : 2'
+  '8':
+  - 'ENTITY : SLIME : 3'
+  - 'ENTITY : BEE : 3'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : WARPED_STEM : 8 : 0'
+  '9':
+  - 'ITEM : SPRUCE_PLANKS : 64 : 0'
+  - 'ITEM : OAK_LOG : 16 : 0'
+  - 'ITEM : SPRUCE_PLANKS : 8 : 0'
+  - 'ITEM : TNT_MINECART : 1 : 0'
+  '10':
+  - 'ENTITY : IRON_GOLEM : 1'
+  - 'ENTITY : SHULKER_BULLET : 1'
+  '11':
+  - 'ITEM : HONEY_BOTTLE : 10 : 0'
+  - 'ENTITY : ZOMBIFIED_PIGLIN : 3'
+  - 'ITEM : INFESTED_STONE_BRICKS : 8 : 0'
+  '12':
+  - 'ITEM : ORANGE_STAINED_GLASS_PANE : 64 : 0'
+  - 'ITEM : ENCHANTING_TABLE : 16 : 0'
+  '13':
+  - 'ITEM : PINK_GLAZED_TERRACOTTA : 64 : 0'
+  - 'ITEM : TROPICAL_FISH : 43 : 0'
+  '14':
+  - 'ITEM : SEA_LANTERN : 32 : 0'
+  - 'ITEM : CHERRY_BOAT : 1 : 0'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '15':
+  - 'ITEM : GRAY_BED : 1 : 0'
+  - 'ITEM : ACACIA_HANGING_SIGN : 16 : 0'
+  - 'ENTITY : CAVE_SPIDER : 3'
+  - 'ITEM : WANDERING_TRADER_SPAWN_EGG : 38 : 0'
+  '16':
+  - 'ITEM : SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE : 14 : 0'
+  - 'ITEM : BAMBOO_HANGING_SIGN : 16 : 0'
+  - 'ITEM : SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE : 63 : 0'
+  '17':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '18':
+  - 'ITEM : COOKED_RABBIT : 42 : 0'
+  - 'ITEM : FIREWORK_STAR : 43 : 0'
+  - 'SPECIAL : PIG : 22'
+  '19':
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 3'
+  - 'ITEM : BLUE_STAINED_GLASS_PANE : 16 : 0'
+  '20':
+  - 'LUCKY_BLOCK_ITEM : CYAN : 1'
+  '21':
+  - 'ITEM : OCHRE_FROGLIGHT : 8 : 0'
+  - 'ITEM : CHISELED_TUFF : 8 : 0'
+  '22':
+  - 'ENTITY : SNOWBALL : 2'
+  - 'ENTITY : HORSE : 1'
+  - 'ITEM : BROWN_TERRACOTTA : 32 : 0'
+  '23':
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 3'
+  - 'ITEM : COBBLED_DEEPSLATE : 64 : 0'
+  '24':
+  - 'ITEM : TALL_GRASS : 8 : 0'
+eco: true

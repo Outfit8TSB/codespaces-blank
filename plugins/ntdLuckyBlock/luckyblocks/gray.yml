@@ -1,0 +1,160 @@
+texture: f171a0c0572824da80366d71c5413a7e3355abec79b8f529f1dc9dad2632f485
+name: '&8Gray LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ENTITY : SHEEP : 2'
+  - 'ENTITY : ELDER_GUARDIAN : 1'
+  - 'ITEM : COD_BUCKET : 1 : 0'
+  '1':
+  - 'LUCKY_BLOCK_ITEM : CYAN : 2'
+  - 'ENTITY : TRADER_LLAMA : 3'
+  '2':
+  - 'ITEM : LIGHT_BLUE_STAINED_GLASS : 64 : 0'
+  - 'ITEM : BAMBOO_MOSAIC_SLAB : 16 : 0'
+  '3':
+  - 'ENTITY : OMINOUS_ITEM_SPAWNER : 4'
+  - 'ITEM : BROWN_CONCRETE : 8 : 0'
+  '4':
+  - 'ITEM : WRITABLE_BOOK : 1 : 0'
+  '5':
+  - 'ITEM : RED_CARPET : 64 : 0'
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 1'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '6':
+  - 'ITEM : GOLDEN_LEGGINGS : 1 : 0'
+  '7':
+  - 'ITEM : WHEAT_SEEDS : 17 : 0'
+  '8':
+  - 'LUCKY_BLOCK_ITEM : CYAN : 2'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '9':
+  - 'ITEM : CRACKED_NETHER_BRICKS : 64 : 0'
+  '10':
+  - 'ITEM : GHAST_SPAWN_EGG : 43 : 0'
+  - 'SPECIAL : LIGHTNING : 3'
+  '11':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'ITEM : PURPLE_CANDLE : 16 : 0'
+  - 'ITEM : DEAD_HORN_CORAL_FAN : 32 : 0'
+  '12':
+  - 'LUCKY_BLOCK_ITEM : PINK : 3'
+  '13':
+  - 'ITEM : FLOWER_POT : 8 : 0'
+  - 'ITEM : DIAMOND_BOOTS : 1 : 0'
+  - 'ITEM : RED_CONCRETE_POWDER : 16 : 0'
+  '14':
+  - 'ITEM : PAINTING : 31 : 0'
+  - 'ENTITY : ZOGLIN : 3'
+  '15':
+  - 'ENTITY : BAMBOO_RAFT : 2'
+  - 'ITEM : LILAC : 32 : 0'
+  - 'ITEM : BLUE_CANDLE : 16 : 0'
+  - 'ENTITY : LLAMA : 2'
+  '16':
+  - 'ITEM : MOSSY_COBBLESTONE_SLAB : 16 : 0'
+  - 'ENTITY : SMALL_FIREBALL : 3'
+  '17':
+  - 'ITEM : GREEN_STAINED_GLASS_PANE : 32 : 0'
+  - 'ENTITY : EGG : 1'
+  - 'ITEM : HOST_ARMOR_TRIM_SMITHING_TEMPLATE : 18 : 0'
+  - 'LUCKY_BLOCK_ITEM : BLUE : 2'
+  '18':
+  - 'ITEM : WAXED_WEATHERED_COPPER : 8 : 0'
+  '19':
+  - 'ITEM : RED_BUNDLE : 1 : 0'
+  '20':
+  - 'ITEM : OXIDIZED_CUT_COPPER : 16 : 0'
+  - 'ITEM : CHISELED_TUFF : 8 : 0'
+  - 'ITEM : WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE : 40 : 0'
+  '21':
+  - 'ITEM : WHITE_GLAZED_TERRACOTTA : 32 : 0'
+  '22':
+  - 'ENTITY : JUNGLE_CHEST_BOAT : 3'
+  - 'LUCKY_BLOCK_ITEM : PINK : 3'
+  '23':
+  - 'ITEM : SMOOTH_SANDSTONE : 64 : 0'
+  '24':
+  - 'ITEM : RED_TERRACOTTA : 64 : 0'
+  - 'ENTITY : WOLF : 2'
+  - 'ITEM : BIRCH_FENCE : 8 : 0'
+  '25':
+  - 'ITEM : PURPUR_PILLAR : 8 : 0'
+  - 'ITEM : HONEYCOMB : 23 : 0'
+  - 'SPECIAL : PIG : 4'
+  '26':
+  - 'ITEM : SAND : 64 : 0'
+  - 'ENTITY : TRIDENT : 4'
+  '27':
+  - 'ITEM : MAGMA_CUBE_SPAWN_EGG : 20 : 0'
+  - 'LUCKY_BLOCK_ITEM : RED : 2'
+  - 'ITEM : CYAN_DYE : 49 : 0'
+  '28':
+  - 'ENTITY : TROPICAL_FISH : 2'
+  - 'ITEM : RED_CARPET : 32 : 0'
+  '29':
+  - 'ITEM : CRACKED_POLISHED_BLACKSTONE_BRICKS : 64 : 0'
+  - 'ITEM : BLACKSTONE_SLAB : 16 : 0'
+  '30':
+  - 'ITEM : BORDURE_INDENTED_BANNER_PATTERN : 1 : 0'
+  - 'ITEM : NETHERITE_CHESTPLATE : 1 : 0'
+  '31':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ITEM : SMOOTH_STONE_SLAB : 8 : 0'
+  '32':
+  - 'LUCKY_BLOCK_ITEM : ORANGE : 4'
+  - 'ITEM : SPRUCE_DOOR : 64 : 0'
+  - 'ITEM : TRADER_LLAMA_SPAWN_EGG : 61 : 0'
+  '33':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'LUCKY_BLOCK_ITEM : BLACK : 1'
+  - 'ITEM : PARROT_SPAWN_EGG : 9 : 0'
+  '34':
+  - 'LUCKY_BLOCK_ITEM : TINTED : 3'
+  - 'ITEM : COPPER_TRAPDOOR : 16 : 0'
+  '35':
+  - 'ITEM : BLUE_SHULKER_BOX : 1 : 0'
+  - 'ENTITY : MULE : 1'
+  - 'ITEM : NETHER_GOLD_ORE : 16 : 0'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '36':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'ENTITY : CAT : 2'
+  - 'ENTITY : SQUID : 3'
+  '37':
+  - 'ENTITY : ZOMBIFIED_PIGLIN : 4'
+  - 'ITEM : LLAMA_SPAWN_EGG : 58 : 0'
+  - 'ITEM : STRAY_SPAWN_EGG : 36 : 0'
+  '38':
+  - 'ENTITY : ENDERMITE : 2'
+  - 'ITEM : CHICKEN_SPAWN_EGG : 46 : 0'
+  - 'SPECIAL : PIG : 16'
+  '39':
+  - 'ITEM : STRIPPED_OAK_LOG : 8 : 0'
+  - 'ITEM : NETHER_SPROUTS : 16 : 0'
+  '40':
+  - 'ENTITY : TEXT_DISPLAY : 2'
+  '41':
+  - 'ENTITY : PIGLIN : 3'
+  - 'ITEM : MANGROVE_HANGING_SIGN : 8 : 0'
+  '42':
+  - 'LUCKY_BLOCK_ITEM : GREEN : 1'
+  - 'ITEM : BEETROOT_SOUP : 1 : 0'
+  '43':
+  - 'LUCKY_BLOCK_ITEM : GREEN : 4'
+  - 'ENTITY : TRIDENT : 1'
+  '44':
+  - 'ENTITY : FROG : 3'
+  '45':
+  - 'ITEM : STRIPPED_OAK_WOOD : 16 : 0'
+  - 'ITEM : PINK_GLAZED_TERRACOTTA : 8 : 0'
+eco: true

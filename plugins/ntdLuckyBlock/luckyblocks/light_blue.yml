@@ -1,0 +1,113 @@
+texture: 65fed46b39c6c34d491143b72ce728797d16f9b5aa40bbdec61667f5ff9d3d45
+name: '&bLight blue LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'LUCKY_BLOCK_ITEM : ORANGE : 3'
+  - 'ENTITY : SNIFFER : 4'
+  '1':
+  - 'ITEM : PIGLIN_SPAWN_EGG : 54 : 0'
+  - 'ITEM : STONECUTTER : 32 : 0'
+  '2':
+  - 'ENTITY : EXPERIENCE_BOTTLE : 2'
+  - 'ITEM : CHISELED_BOOKSHELF : 32 : 0'
+  - 'ITEM : SPORE_BLOSSOM : 16 : 0'
+  '3':
+  - 'ITEM : NOTE_BLOCK : 32 : 0'
+  '4':
+  - 'ITEM : DEEPSLATE_TILES : 32 : 0'
+  - 'ITEM : LIGHT_GRAY_CONCRETE_POWDER : 16 : 0'
+  '5':
+  - 'ENTITY : OAK_BOAT : 1'
+  '6':
+  - 'ITEM : BRAIN_CORAL : 8 : 0'
+  '7':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '8':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '9':
+  - 'SPECIAL : LIGHTNING : 3'
+  '10':
+  - 'ITEM : DRAGON_BREATH : 63 : 0'
+  - 'ENTITY : JUNGLE_CHEST_BOAT : 3'
+  '11':
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 4'
+  - 'ITEM : WEATHERED_CHISELED_COPPER : 64 : 0'
+  '12':
+  - 'ITEM : SKELETON_HORSE_SPAWN_EGG : 37 : 0'
+  - 'ENTITY : PANDA : 1'
+  '13':
+  - 'ITEM : NETHERITE_SCRAP : 27 : 0'
+  - 'ITEM : WHITE_TERRACOTTA : 64 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ENTITY : STRIDER : 4'
+  '14':
+  - 'ITEM : NETHERITE_SCRAP : 61 : 0'
+  - 'ITEM : BUNDLE : 1 : 0'
+  '15':
+  - 'ITEM : GREEN_BUNDLE : 1 : 0'
+  - 'ITEM : PALE_OAK_DOOR : 64 : 0'
+  '16':
+  - 'SPECIAL : LIGHTNING : 3'
+  '17':
+  - 'ENTITY : WIND_CHARGE : 3'
+  - 'ENTITY : ZOMBIE : 1'
+  - 'ITEM : YELLOW_CONCRETE : 64 : 0'
+  '18':
+  - 'ITEM : COPPER_TRAPDOOR : 16 : 0'
+  - 'ITEM : BEEHIVE : 8 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ENTITY : PIGLIN_BRUTE : 4'
+  '19':
+  - 'ENTITY : PIGLIN_BRUTE : 1'
+  - 'ITEM : WAXED_OXIDIZED_COPPER_DOOR : 8 : 0'
+  '20':
+  - 'ITEM : BUBBLE_CORAL : 32 : 0'
+  - 'ITEM : BIRCH_WOOD : 8 : 0'
+  '21':
+  - 'ITEM : WOODEN_AXE : 1 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '22':
+  - 'ITEM : BAT_SPAWN_EGG : 23 : 0'
+  - 'LUCKY_BLOCK_ITEM : BLACK : 4'
+  - 'ITEM : MANGROVE_BOAT : 1 : 0'
+  '23':
+  - 'ITEM : DARK_OAK_LEAVES : 16 : 0'
+  '24':
+  - 'ITEM : PALE_OAK_WOOD : 32 : 0'
+  - 'ITEM : OXIDIZED_CUT_COPPER_SLAB : 64 : 0'
+  '25':
+  - 'ENTITY : EXPERIENCE_ORB : 4'
+  - 'ITEM : LEATHER_BOOTS : 1 : 0'
+  '26':
+  - 'ITEM : GOLDEN_CHESTPLATE : 1 : 0'
+  - 'ITEM : RAVAGER_SPAWN_EGG : 43 : 0'
+  '27':
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 3'
+  - 'ENTITY : TRADER_LLAMA : 1'
+  '28':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '29':
+  - 'ENTITY : AXOLOTL : 4'
+  - 'ITEM : WRITABLE_BOOK : 1 : 0'
+  - 'ITEM : PALE_MOSS_CARPET : 64 : 0'
+  - 'ENTITY : ZOMBIE_HORSE : 2'
+  '30':
+  - 'LUCKY_BLOCK_ITEM : WHITE : 4'
+  - 'ENTITY : ZOMBIFIED_PIGLIN : 2'
+  - 'ITEM : CHISELED_STONE_BRICKS : 32 : 0'
+  '31':
+  - 'ENTITY : SKELETON_HORSE : 4'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '32':
+  - 'ITEM : WARPED_TRAPDOOR : 32 : 0'
+  - 'ENTITY : LLAMA_SPIT : 4'
+eco: true

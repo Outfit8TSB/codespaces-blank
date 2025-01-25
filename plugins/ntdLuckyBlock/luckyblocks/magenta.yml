@@ -1,0 +1,155 @@
+texture: 1f23685c697ba55edda425ecf1fec72feeb7bb985c6506b2cef070515e4e5492
+name: '&dMagenta LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ENTITY : ITEM_FRAME : 1'
+  - 'ITEM : BLACK_GLAZED_TERRACOTTA : 8 : 0'
+  - 'ENTITY : GOAT : 3'
+  '1':
+  - 'ENTITY : ARROW : 4'
+  '2':
+  - 'ITEM : GOLDEN_HORSE_ARMOR : 1 : 0'
+  '3':
+  - 'ENTITY : FROG : 1'
+  - 'ITEM : SNIFFER_EGG : 8 : 0'
+  '4':
+  - 'ITEM : SKULL_POTTERY_SHERD : 4 : 0'
+  - 'ITEM : GOLDEN_LEGGINGS : 1 : 0'
+  '5':
+  - 'LUCKY_BLOCK_ITEM : TINTED : 4'
+  - 'ITEM : PINK_CARPET : 8 : 0'
+  - 'ITEM : PIGLIN_HEAD : 16 : 0'
+  '6':
+  - 'ITEM : CALCITE : 64 : 0'
+  - 'ITEM : EXPOSED_COPPER : 8 : 0'
+  - 'ENTITY : COW : 3'
+  '7':
+  - 'ITEM : MOSS_BLOCK : 8 : 0'
+  '8':
+  - 'ITEM : AXOLOTL_SPAWN_EGG : 22 : 0'
+  - 'ITEM : PALE_OAK_TRAPDOOR : 16 : 0'
+  - 'ITEM : BARRIER : 32 : 0'
+  - 'ITEM : COPPER_TRAPDOOR : 32 : 0'
+  '9':
+  - 'LUCKY_BLOCK_ITEM : TINTED : 1'
+  - 'ITEM : ARMADILLO_SCUTE : 33 : 0'
+  - 'SPECIAL : LIGHTNING : 3'
+  '10':
+  - 'ENTITY : PIGLIN : 2'
+  - 'ENTITY : HUSK : 2'
+  - 'ITEM : CHISELED_DEEPSLATE : 64 : 0'
+  '11':
+  - 'ITEM : BLUE_BANNER : 16 : 0'
+  - 'LUCKY_BLOCK_ITEM : CYAN : 3'
+  - 'ITEM : TINTED_GLASS : 16 : 0'
+  '12':
+  - 'ITEM : ZOMBIE_HEAD : 8 : 0'
+  '13':
+  - 'ITEM : ELDER_GUARDIAN_SPAWN_EGG : 35 : 0'
+  '14':
+  - 'ENTITY : GOAT : 4'
+  - 'ENTITY : PUFFERFISH : 1'
+  '15':
+  - 'ITEM : GOLD_ORE : 32 : 0'
+  '16':
+  - 'ENTITY : ARMOR_STAND : 1'
+  - 'LUCKY_BLOCK_ITEM : GREEN : 4'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '17':
+  - 'SPECIAL : PIG : 17'
+  '18':
+  - 'ITEM : STRIPPED_OAK_LOG : 64 : 0'
+  '19':
+  - 'ITEM : POLISHED_ANDESITE_SLAB : 8 : 0'
+  - 'ITEM : NETHERITE_CHESTPLATE : 1 : 0'
+  '20':
+  - 'ITEM : NETHERITE_SWORD : 1 : 0'
+  - 'SPECIAL : PIG : 4'
+  - 'ITEM : JUNGLE_HANGING_SIGN : 16 : 0'
+  '21':
+  - 'ITEM : DARK_OAK_PRESSURE_PLATE : 16 : 0'
+  - 'LUCKY_BLOCK_ITEM : YELLOW : 4'
+  '22':
+  - 'ITEM : SHULKER_SPAWN_EGG : 41 : 0'
+  - 'ITEM : STRIPPED_MANGROVE_LOG : 64 : 0'
+  '23':
+  - 'ENTITY : PARROT : 1'
+  - 'LUCKY_BLOCK_ITEM : BLUE : 2'
+  '24':
+  - 'ITEM : STRIPPED_CHERRY_WOOD : 8 : 0'
+  - 'ITEM : STRIPPED_CHERRY_WOOD : 64 : 0'
+  '25':
+  - 'ENTITY : BREEZE_WIND_CHARGE : 1'
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 4'
+  '26':
+  - 'ENTITY : ZOMBIFIED_PIGLIN : 2'
+  - 'ITEM : CRACKED_NETHER_BRICKS : 8 : 0'
+  - 'ITEM : WRITTEN_BOOK : 15 : 0'
+  - 'ENTITY : HOGLIN : 3'
+  '27':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'ITEM : OAK_HANGING_SIGN : 16 : 0'
+  '28':
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 4'
+  - 'ITEM : QUARTZ_PILLAR : 16 : 0'
+  '29':
+  - 'ITEM : STRIPPED_DARK_OAK_LOG : 64 : 0'
+  - 'ENTITY : BAMBOO_CHEST_RAFT : 4'
+  - 'ITEM : CRAFTER : 8 : 0'
+  '30':
+  - 'ITEM : BURN_POTTERY_SHERD : 19 : 0'
+  '31':
+  - 'ENTITY : WANDERING_TRADER : 4'
+  - 'ITEM : HONEY_BOTTLE : 10 : 0'
+  - 'ENTITY : BAMBOO_CHEST_RAFT : 3'
+  '32':
+  - 'ITEM : SPYGLASS : 1 : 0'
+  - 'ITEM : CHERRY_FENCE : 8 : 0'
+  - 'ENTITY : ZOMBIE : 1'
+  '33':
+  - 'ITEM : YELLOW_CANDLE : 64 : 0'
+  '34':
+  - 'SPECIAL : PIG : 14'
+  '35':
+  - 'ENTITY : STRAY : 1'
+  - 'ITEM : STRIPPED_CRIMSON_HYPHAE : 64 : 0'
+  '36':
+  - 'ITEM : CHISELED_SANDSTONE : 16 : 0'
+  '37':
+  - 'ENTITY : ALLAY : 4'
+  - 'ENTITY : ACACIA_BOAT : 3'
+  - 'ITEM : FIRE_CORAL_FAN : 16 : 0'
+  '38':
+  - 'ITEM : LIME_BUNDLE : 1 : 0'
+  - 'ITEM : CHERRY_SIGN : 8 : 0'
+  - 'ITEM : EXPERIENCE_BOTTLE : 50 : 0'
+  - 'ENTITY : GLOW_ITEM_FRAME : 3'
+  '39':
+  - 'ENTITY : OAK_CHEST_BOAT : 1'
+  '40':
+  - 'ITEM : LAVA_BUCKET : 1 : 0'
+  - 'ENTITY : GOAT : 3'
+  '41':
+  - 'LUCKY_BLOCK_ITEM : GRAY : 2'
+  - 'ITEM : BROWN_MUSHROOM_BLOCK : 64 : 0'
+  '42':
+  - 'ITEM : NETHER_BRICK_WALL : 32 : 0'
+  '43':
+  - 'ITEM : WAXED_COPPER_GRATE : 64 : 0'
+  - 'ITEM : ARMS_UP_POTTERY_SHERD : 18 : 0'
+  '44':
+  - 'ENTITY : GOAT : 3'
+  '45':
+  - 'ITEM : PALE_OAK_TRAPDOOR : 32 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : SNOW : 16 : 0'
+eco: true

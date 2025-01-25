@@ -1,0 +1,104 @@
+texture: b03f5a9bc719cd1127be0954c73cd5714ecd478dad880ef2b9979c481097e6be
+name: '&aLime LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ITEM : WHEAT_SEEDS : 26 : 0'
+  '1':
+  - 'ITEM : SHELTER_POTTERY_SHERD : 17 : 0'
+  - 'LUCKY_BLOCK_ITEM : YELLOW : 1'
+  '2':
+  - 'ITEM : POLISHED_DIORITE_SLAB : 16 : 0'
+  - 'ITEM : TUFF_BRICK_WALL : 32 : 0'
+  - 'ENTITY : ARMADILLO : 2'
+  '3':
+  - 'ITEM : CHERRY_WOOD : 64 : 0'
+  - 'ENTITY : ACACIA_BOAT : 2'
+  '4':
+  - 'ITEM : OAK_FENCE : 16 : 0'
+  - 'ITEM : PINK_BANNER : 16 : 0'
+  '5':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : CAKE : 1 : 0'
+  '6':
+  - 'ENTITY : PANDA : 4'
+  - 'ITEM : WITHER_SKELETON_SPAWN_EGG : 34 : 0'
+  '7':
+  - 'ITEM : CORNFLOWER : 16 : 0'
+  '8':
+  - 'ITEM : ANDESITE_SLAB : 64 : 0'
+  - 'ITEM : QUARTZ_PILLAR : 32 : 0'
+  '9':
+  - 'SPECIAL : LIGHTNING : 3'
+  '10':
+  - 'ENTITY : PARROT : 2'
+  - 'ITEM : OAK_SIGN : 16 : 0'
+  '11':
+  - 'ENTITY : BAMBOO_CHEST_RAFT : 4'
+  - 'ITEM : WAXED_OXIDIZED_COPPER_GRATE : 16 : 0'
+  '12':
+  - 'ENTITY : GIANT : 2'
+  '13':
+  - 'ENTITY : BAMBOO_CHEST_RAFT : 2'
+  - 'ITEM : GOLDEN_LEGGINGS : 1 : 0'
+  '14':
+  - 'ENTITY : WARDEN : 1'
+  - 'ENTITY : ACACIA_BOAT : 1'
+  - 'ENTITY : ACACIA_BOAT : 4'
+  '15':
+  - 'ITEM : TURTLE_HELMET : 1 : 0'
+  - 'ENTITY : TURTLE : 4'
+  - 'LUCKY_BLOCK_ITEM : CYAN : 3'
+  '16':
+  - 'ENTITY : ITEM_DISPLAY : 2'
+  '17':
+  - 'ENTITY : JUNGLE_CHEST_BOAT : 1'
+  - 'ENTITY : EXPERIENCE_ORB : 1'
+  - 'ITEM : TWISTING_VINES : 8 : 0'
+  - 'ENTITY : DARK_OAK_BOAT : 3'
+  '18':
+  - 'ITEM : SHIELD : 1 : 0'
+  - 'ITEM : GOLDEN_CARROT : 60 : 0'
+  '19':
+  - 'ENTITY : JUNGLE_BOAT : 1'
+  '20':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_GRAY : 1'
+  - 'ITEM : WEATHERED_COPPER_TRAPDOOR : 64 : 0'
+  - 'ENTITY : COW : 4'
+  '21':
+  - 'ITEM : RED_BED : 1 : 0'
+  '22':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  '23':
+  - 'ITEM : BLUE_CONCRETE_POWDER : 64 : 0'
+  - 'ITEM : BLUE_ORCHID : 8 : 0'
+  - 'ITEM : IRON_DOOR : 64 : 0'
+  '24':
+  - 'ENTITY : FROG : 3'
+  - 'ITEM : MAGENTA_STAINED_GLASS : 64 : 0'
+  '25':
+  - 'ITEM : VINE : 64 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : OXIDIZED_COPPER_TRAPDOOR : 16 : 0'
+  '26':
+  - 'ENTITY : RABBIT : 2'
+  - 'ITEM : ALLIUM : 64 : 0'
+  '27':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : JUNGLE_TRAPDOOR : 16 : 0'
+  - 'ENTITY : SMALL_FIREBALL : 4'
+  '28':
+  - 'ITEM : HUSK_SPAWN_EGG : 37 : 0'
+  - 'ITEM : MELON : 8 : 0'
+  - 'ITEM : STRIPPED_BIRCH_LOG : 32 : 0'
+eco: true

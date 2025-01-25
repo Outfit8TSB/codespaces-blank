@@ -1,0 +1,76 @@
+texture: 8534b17d2d3b5a64c57f5f080dd777945761d9f71d82e8f599f242976e4d0c05
+name: '&1Blue LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ENTITY : DRAGON_FIREBALL : 4'
+  '1':
+  - 'ENTITY : SMALL_FIREBALL : 3'
+  '2':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '3':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '4':
+  - 'ITEM : MANGROVE_FENCE : 8 : 0'
+  - 'ITEM : BIRCH_DOOR : 16 : 0'
+  - 'ENTITY : BLOCK_DISPLAY : 1'
+  - 'LUCKY_BLOCK_ITEM : ICED : 1'
+  '5':
+  - 'ITEM : CHIPPED_ANVIL : 32 : 0'
+  - 'ENTITY : BIRCH_BOAT : 3'
+  '6':
+  - 'ITEM : PURPLE_WOOL : 32 : 0'
+  - 'ITEM : DIORITE : 32 : 0'
+  - 'ENTITY : POTION : 4'
+  '7':
+  - 'ITEM : CRIMSON_FUNGUS : 32 : 0'
+  '8':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ITEM : NETHERITE_BLOCK : 64 : 0'
+  '9':
+  - 'ITEM : LARGE_FERN : 8 : 0'
+  - 'ITEM : LARGE_FERN : 16 : 0'
+  '10':
+  - 'SPECIAL : PIG : 4'
+  - 'ITEM : BAMBOO_DOOR : 16 : 0'
+  '11':
+  - 'ITEM : DEEPSLATE_TILE_WALL : 16 : 0'
+  - 'SPECIAL : PIG : 4'
+  '12':
+  - 'ITEM : OAK_HANGING_SIGN : 16 : 0'
+  - 'ITEM : MILK_BUCKET : 1 : 0'
+  - 'ITEM : SHELTER_POTTERY_SHERD : 57 : 0'
+  '13':
+  - 'ITEM : POLISHED_DEEPSLATE_WALL : 32 : 0'
+  '14':
+  - 'ENTITY : SQUID : 1'
+  '15':
+  - 'ITEM : NETHER_QUARTZ_ORE : 32 : 0'
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  '16':
+  - 'LUCKY_BLOCK_ITEM : WHITE : 4'
+  - 'SPECIAL : PIG : 4'
+  - 'ITEM : MUSIC_DISC_MALL : 1 : 0'
+  - 'ITEM : LEATHER_LEGGINGS : 1 : 0'
+  '17':
+  - 'ENTITY : ENDER_PEARL : 4'
+  - 'ITEM : OAK_WOOD : 8 : 0'
+  - 'ENTITY : WOLF : 1'
+  '18':
+  - 'ITEM : RED_SAND : 8 : 0'
+  - 'ENTITY : VINDICATOR : 3'
+  - 'LUCKY_BLOCK_ITEM : CYAN : 3'
+  '19':
+  - 'ENTITY : BREEZE : 4'
+  - 'LUCKY_BLOCK_ITEM : YELLOW : 2'
+eco: true

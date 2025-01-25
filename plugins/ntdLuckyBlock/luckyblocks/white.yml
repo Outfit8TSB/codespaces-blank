@@ -1,0 +1,93 @@
+texture: c8e16e7ff13d3e30a3a2b835a86fd05ecbc08909f6056de1646fe25b3def9584
+name: '&fWhite LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'SPECIAL : PIG : 4'
+  '1':
+  - 'ENTITY : ILLUSIONER : 4'
+  '2':
+  - 'ENTITY : WITHER : 4'
+  '3':
+  - 'SPECIAL : PIG : 4'
+  - 'ENTITY : TADPOLE : 2'
+  - 'ENTITY : COD : 2'
+  '4':
+  - 'LUCKY_BLOCK_ITEM : GRAY : 2'
+  - 'ENTITY : OCELOT : 1'
+  '5':
+  - 'LUCKY_BLOCK_ITEM : ORANGE : 2'
+  - 'ENTITY : SNOWBALL : 3'
+  '6':
+  - 'ITEM : PIGLIN_HEAD : 8 : 0'
+  '7':
+  - 'ENTITY : PARROT : 4'
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 3'
+  '8':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ENTITY : JUNGLE_BOAT : 3'
+  - 'ENTITY : EGG : 2'
+  '9':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '10':
+  - 'ITEM : STRIPPED_DARK_OAK_LOG : 16 : 0'
+  - 'ENTITY : DRAGON_FIREBALL : 4'
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 1'
+  '11':
+  - 'ITEM : RED_CONCRETE_POWDER : 16 : 0'
+  '12':
+  - 'ITEM : MUSIC_DISC_RELIC : 1 : 0'
+  - 'ENTITY : FOX : 1'
+  - 'ENTITY : HUSK : 3'
+  '13':
+  - 'ENTITY : PIGLIN : 2'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '14':
+  - 'ENTITY : LLAMA : 4'
+  - 'ITEM : OAK_PRESSURE_PLATE : 8 : 0'
+  '15':
+  - 'ITEM : ELYTRA : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : GREEN : 2'
+  - 'ITEM : MOSSY_COBBLESTONE : 16 : 0'
+  '16':
+  - 'ITEM : MUSIC_DISC_MALL : 1 : 0'
+  - 'ITEM : BLUE_STAINED_GLASS_PANE : 32 : 0'
+  '17':
+  - 'ENTITY : JUNGLE_BOAT : 1'
+  - 'ENTITY : GOAT : 4'
+  '18':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'ENTITY : TNT_MINECART : 2'
+  - 'ITEM : KELP : 32 : 0'
+  '19':
+  - 'ITEM : ORANGE_TERRACOTTA : 32 : 0'
+  '20':
+  - 'ITEM : SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE : 63 : 0'
+  - 'LUCKY_BLOCK_ITEM : YELLOW : 3'
+  - 'ITEM : BAMBOO_PRESSURE_PLATE : 16 : 0'
+  '21':
+  - 'LUCKY_BLOCK_ITEM : TINTED : 3'
+  - 'ENTITY : SQUID : 4'
+  '22':
+  - 'ENTITY : TURTLE : 2'
+  '23':
+  - 'ITEM : ORANGE_STAINED_GLASS_PANE : 64 : 0'
+  '24':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '25':
+  - 'ITEM : SCULK_CATALYST : 16 : 0'
+  - 'ITEM : WAXED_CUT_COPPER : 64 : 0'
+  '26':
+  - 'ENTITY : WITCH : 4'
+  '27':
+  - 'ITEM : YELLOW_CARPET : 8 : 0'
+  - 'ITEM : DEAD_HORN_CORAL_FAN : 64 : 0'
+eco: true

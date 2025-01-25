@@ -1,0 +1,117 @@
+texture: 29942dd1338abeae8b8274a41ae1dcdf2b7be449f28d6b650ec06e491e70f570
+name: '&4Red LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ITEM : LILAC : 8 : 0'
+  '1':
+  - 'ITEM : TRIAL_SPAWNER : 32 : 0'
+  - 'ENTITY : PUFFERFISH : 2'
+  - 'ITEM : CRYING_OBSIDIAN : 16 : 0'
+  '2':
+  - 'ITEM : CRIMSON_PRESSURE_PLATE : 16 : 0'
+  '3':
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ENTITY : FROG : 2'
+  - 'ENTITY : EYE_OF_ENDER : 3'
+  - 'ITEM : ACACIA_SIGN : 8 : 0'
+  '4':
+  - 'ITEM : HOPPER_MINECART : 1 : 0'
+  - 'ENTITY : COD : 4'
+  '5':
+  - 'ITEM : WEATHERED_COPPER_BULB : 16 : 0'
+  '6':
+  - 'ENTITY : OCELOT : 3'
+  - 'ITEM : BROWN_STAINED_GLASS_PANE : 32 : 0'
+  '7':
+  - 'ITEM : CLAY_BALL : 39 : 0'
+  - 'ITEM : PALE_OAK_BOAT : 1 : 0'
+  '8':
+  - 'ITEM : PURPUR_SLAB : 64 : 0'
+  - 'ITEM : DEEPSLATE_DIAMOND_ORE : 16 : 0'
+  - 'ENTITY : PARROT : 4'
+  - 'SPECIAL : LIGHTNING : 3'
+  '9':
+  - 'ITEM : BROWN_GLAZED_TERRACOTTA : 8 : 0'
+  - 'LUCKY_BLOCK_ITEM : BROWN : 3'
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  '10':
+  - 'ENTITY : AREA_EFFECT_CLOUD : 1'
+  - 'LUCKY_BLOCK_ITEM : LIGHT_GRAY : 3'
+  - 'LUCKY_BLOCK_ITEM : GREEN : 1'
+  '11':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '12':
+  - 'ITEM : CREEPER_SPAWN_EGG : 54 : 0'
+  - 'LUCKY_BLOCK_ITEM : BLUE : 3'
+  - 'ENTITY : OAK_BOAT : 4'
+  '13':
+  - 'ENTITY : ZOMBIE_HORSE : 3'
+  - 'ENTITY : ZOMBIE_HORSE : 4'
+  '14':
+  - 'ITEM : COPPER_BULB : 64 : 0'
+  - 'ITEM : CYAN_TERRACOTTA : 16 : 0'
+  - 'ITEM : GOLDEN_APPLE : 29 : 0'
+  '15':
+  - 'ITEM : MUSIC_DISC_CAT : 1 : 0'
+  - 'ENTITY : TRIDENT : 2'
+  '16':
+  - 'ITEM : MANGROVE_HANGING_SIGN : 8 : 0'
+  - 'ENTITY : ELDER_GUARDIAN : 3'
+  '17':
+  - 'ITEM : COOKIE : 64 : 0'
+  - 'ENTITY : MOOSHROOM : 1'
+  - 'ENTITY : EXPERIENCE_ORB : 4'
+  '18':
+  - 'ENTITY : GIANT : 4'
+  - 'ITEM : BEETROOT : 39 : 0'
+  - 'ITEM : TUBE_CORAL_BLOCK : 16 : 0'
+  '19':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : COPPER_TRAPDOOR : 32 : 0'
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 4'
+  '20':
+  - 'LUCKY_BLOCK_ITEM : BROWN : 3'
+  '21':
+  - 'ITEM : CHICKEN : 51 : 0'
+  - 'ITEM : GOLDEN_HELMET : 1 : 0'
+  '22':
+  - 'ENTITY : SHEEP : 3'
+  - 'ENTITY : SPIDER : 2'
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 3'
+  '23':
+  - 'ENTITY : PAINTING : 1'
+  - 'ITEM : AMETHYST_SHARD : 46 : 0'
+  - 'ITEM : LIGHT_GRAY_CONCRETE : 16 : 0'
+  '24':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ITEM : CUT_RED_SANDSTONE_SLAB : 8 : 0'
+  - 'ITEM : LANTERN : 16 : 0'
+  '25':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_GRAY : 3'
+  - 'ITEM : COAL_BLOCK : 8 : 0'
+  - 'ITEM : ACACIA_LOG : 16 : 0'
+  - 'ITEM : ZOMBIFIED_PIGLIN_SPAWN_EGG : 34 : 0'
+  '26':
+  - 'ENTITY : ITEM_DISPLAY : 4'
+  - 'ITEM : DISPENSER : 8 : 0'
+  '27':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ITEM : GLOBE_BANNER_PATTERN : 1 : 0'
+  '28':
+  - 'ENTITY : RABBIT : 2'
+  - 'ITEM : LIGHT_GRAY_CANDLE : 32 : 0'
+  '29':
+  - 'ITEM : STONE_BRICK_WALL : 64 : 0'
+  '30':
+  - 'ITEM : WAXED_EXPOSED_COPPER : 32 : 0'
+eco: true
