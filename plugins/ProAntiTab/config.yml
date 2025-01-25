@@ -111,7 +111,8 @@ custom-version:
     - bukkit:ver
     - bukkit:version
   message:
-    - '&fThis server is running CraftBukkit version git-NasaSpigot-294 (MC: X)'
+    - '&fHey Virgin, Why are you checking version? Are you stupid or cringe? You Can Use NogyangSpigot to make that same thing.'
+    - 'https://github.com/GAME-CLI-SRV-DEV/NogyangSpigotCraftBukkit'
 
 #>> HTP (Overwritten)
 # Here you can disable all namespace commands.
