@@ -520,7 +520,7 @@ new_world_settings:
       # useful when you allow players to build/destroy in the wilderness.
       # Like other options in the new_world_settings section, this is only applied as a default setting for new worlds.
       # Configure the list found in the towny\data\worlds\WORLDNAME.txt files.
-      block_whitelist: ''
+      block_whitelist: BEDROCK
   
     # This section is applied to new worlds as default settings when new worlds are detected.
     wild_revert_on_mob_explosion:

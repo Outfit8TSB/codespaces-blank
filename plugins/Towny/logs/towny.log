@@ -22,3 +22,13 @@
 26 Jan 2025 13:27:40 [Server thread]: Version: 0.100.4.0 - Plugin Enabled
 26 Jan 2025 13:27:40 [Folia Async Scheduler Thread #1]: New update available: 0.101.1.1 | Current version: 0.100.4.0
 26 Jan 2025 13:27:40 [Folia Async Scheduler Thread #1]: Download it here: https://github.com/TownyAdvanced/Towny/releases/tag/0.101.1.1
+26 Jan 2025 13:40:27 [Server thread]: Configuration successfully reloaded.
+26 Jan 2025 13:40:27 [Server thread]: The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 0 does not have a value, falling back to '0'.
+26 Jan 2025 13:40:27 [Server thread]: The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 10 does not have a value, falling back to '0'.
+26 Jan 2025 13:40:27 [Server thread]: The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 20 does not have a value, falling back to '0'.
+26 Jan 2025 13:40:27 [Server thread]: The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 30 does not have a value, falling back to '0'.
+26 Jan 2025 13:40:27 [Server thread]: The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 40 does not have a value, falling back to '0'.
+26 Jan 2025 13:40:27 [Server thread]: The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 60 does not have a value, falling back to '0'.
+26 Jan 2025 13:40:27 [Server thread]: Successfully loaded translations for 42 languages.
+26 Jan 2025 13:40:27 [Server thread]: Language file successfully reloaded
+26 Jan 2025 13:40:27 [Server thread]: Config: Loaded 9 townblock types: shop, inn, arena, jail, default, bank, wilds, farm, embassy.
