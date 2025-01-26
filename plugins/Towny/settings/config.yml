@@ -466,7 +466,7 @@ new_world_settings:
   plot_management:
   
     # This section is applied to new worlds as default settings when new worlds are detected.
-    block_delete: 'false'
+    block_delete: 
   
       # You can adjust this setting for an existing world using /townyworld toggle unclaimblockdelete
       enabled: 'true'
@@ -483,7 +483,9 @@ new_world_settings:
       unclaim_delete: end_crystal
   
     # This section is applied to new worlds as default settings when new worlds are detected.
-    mayor_plotblock_delete:
+    mayor_plot
+    
+    block_delete:
   
       # You can adjust this setting for an existing world using /townyworld toggle plotcleardelete
       enabled: 'true'
