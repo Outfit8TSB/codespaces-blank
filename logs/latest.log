@@ -654,3 +654,4 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [14:27:08] [Server thread/INFO]: Villager EntityVillager['Villagers654'/9944, uuid='48df3be5-47fd-45ce-a45e-2d357adca304', l='ServerLevel[world]', x=116.39, y=123.00, z=-281.50, cpos=[7, -18], tl=3829, v=true] died, message: 'Villagers654 was blown up by .CensingSmile123'
 [14:27:08] [Server thread/INFO]: Named entity EntityVillager['Villagers654'/9944, uuid='48df3be5-47fd-45ce-a45e-2d357adca304', l='ServerLevel[world]', x=116.39, y=123.00, z=-281.50, cpos=[7, -18], tl=3829, v=true] died: Villagers654 was blown up by .CensingSmile123
 [14:27:51] [Server thread/INFO]: .CensingSmile123 issued server command: //pyramid tnt 10
+[14:28:35] [Server thread/INFO]: .CensingSmile123 issued server command: //pyramid tnt 10
