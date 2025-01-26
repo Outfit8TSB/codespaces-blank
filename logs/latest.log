@@ -487,3 +487,9 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 ii<--[HERE]
 [09:59:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
 0<--[HERE]
+[10:02:32] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username CensingSmile123
+[10:02:32] [localSession-7-2/INFO]: [Geyser-Spigot] CensingSmile123 (logged in as: CensingSmile123) has connected to the Java server
+[10:02:32] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CensingSmile123 joined (UUID: 00000000-0000-0000-0009-01f322b1b6b3)
+[10:02:33] [Server thread/INFO]: .CensingSmile123 joined the game
+[10:02:33] [Server thread/INFO]: .CensingSmile123[/127.0.0.1:0] logged in with entity id 27 at ([world]37.618282, 99.66573, -465.16855)
+[10:03:17] [Craft Scheduler Thread - 183 - InteractiveChat/INFO]: [InteractiveChat] Failed to check against "api.loohpjames.com" for the latest version.. It could be an internet issue or "api.loohpjames.com" is down. If you want disable the update checker, you can disable in config.yml, but we still highly-recommend you to keep your plugin up to date!
