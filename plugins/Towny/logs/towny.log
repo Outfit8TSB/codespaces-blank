@@ -29,3 +29,7 @@
 26 Jan 2025 12:00:00 [Folia Async Scheduler Thread Timer]: Towny DailyTimerTask took 40ms to process.
 26 Jan 2025 12:00:00 [ForkJoinPool.commonPool-worker-1]: Towny flatfiles and settings successfully backed up.
 26 Jan 2025 12:01:00 [Server thread]: Time until a New Day: 23 hours, 59 minutes
+26 Jan 2025 12:11:17 [Server thread]: Disabling Towny v0.100.4.0
+26 Jan 2025 12:11:17 [Server thread]: Finishing File IO Tasks...
+26 Jan 2025 12:11:17 [Server thread]: Finishing Universe Tasks...
+26 Jan 2025 12:11:17 [Server thread]: Version: 0.100.4.0 - Plugin Disabled
