@@ -497,3 +497,5 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [13:30:35] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CensingSmile123 joined (UUID: 00000000-0000-0000-0009-01f322b1b6b3)
 [13:30:36] [Server thread/INFO]: .CensingSmile123 joined the game
 [13:30:36] [Server thread/INFO]: .CensingSmile123[/127.0.0.1:0] logged in with entity id 26 at ([world]176.24265, 127.74785, -443.02966)
+[13:33:16] [Server thread/INFO]: .CensingSmile123 issued server command: //pyramid tnt 10
+[13:33:44] [Server thread/INFO]: .CensingSmile123 issued server command: //pyramid tnt 10
