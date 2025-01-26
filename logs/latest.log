@@ -516,3 +516,8 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [12:35:25] [Server thread/INFO]:  - AngelChest, *AutoMessage, BlueSlimeCore, *ChestShop, Citizens, Essentials, floodgate, Geyser-Spigot, InteractiveChat, LogBlock
 [12:35:25] [Server thread/INFO]:  *LunaChat, NBTAPI, ntdLuckyBlock, PetShop, PlaceholderAPI, PlugManX, ProtocolLib, *PurpleIRC, *RandomTP, RotatoR
 [12:35:25] [Server thread/INFO]:  Slimefun, Towny, Vault, VeinMiner, ViaBackwards, ViaRewind, ViaVersion, WorldEdit
+[12:37:37] [Server thread/INFO]: .CensingSmile123 issued server command: /pl
+[12:37:54] [Server thread/INFO]: .CensingSmile123 issued server command: /plugman disable automessage
+[12:37:54] [Server thread/INFO]: [AutoMessage] Disabling AutoMessage v2.5.5
+[12:39:18] [Server thread/INFO]: .CensingSmile123 issued server command: /plugman disable chestshop
+[12:39:18] [Server thread/INFO]: [ChestShop] Disabling ChestShop v3.8.13-SNAPSHOT (build #41)
