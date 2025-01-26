@@ -492,3 +492,8 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [13:27:50] [Server thread/INFO]: [AngelChest] 
 [13:27:50] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [13:27:50] [Server thread/INFO]: [AngelChest] ========================================================
+[13:30:35] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username CensingSmile123
+[13:30:35] [localSession-7-2/INFO]: [Geyser-Spigot] CensingSmile123 (logged in as: CensingSmile123) has connected to the Java server
+[13:30:35] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CensingSmile123 joined (UUID: 00000000-0000-0000-0009-01f322b1b6b3)
+[13:30:36] [Server thread/INFO]: .CensingSmile123 joined the game
+[13:30:36] [Server thread/INFO]: .CensingSmile123[/127.0.0.1:0] logged in with entity id 26 at ([world]176.24265, 127.74785, -443.02966)
