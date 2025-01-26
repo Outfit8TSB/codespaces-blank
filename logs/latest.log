@@ -521,3 +521,11 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [12:37:54] [Server thread/INFO]: [AutoMessage] Disabling AutoMessage v2.5.5
 [12:39:18] [Server thread/INFO]: .CensingSmile123 issued server command: /plugman disable chestshop
 [12:39:18] [Server thread/INFO]: [ChestShop] Disabling ChestShop v3.8.13-SNAPSHOT (build #41)
+[12:42:00] [Server thread/INFO]: .CensingSmile123 issued server command: /plugman disable logblock
+[12:42:00] [Server thread/INFO]: [LogBlock] Disabling LogBlock v1.14.1-SNAPSHOT (build #65)
+[12:42:00] [Server thread/INFO]: [LogBlock] Waiting for consumer ...
+[12:44:12] [Server thread/INFO]: .CensingSmile123 issued server command: /plugman disable PurpleIRC
+[12:44:12] [Server thread/INFO]: [PurpleIRC] Disabling PurpleIRC v1.0-352
+[12:44:12] [Server thread/INFO]: [PurpleIRC] No IRC bots to disconnect.
+[12:44:45] [Server thread/INFO]: .CensingSmile123 issued server command: /plugman disable RotatoR
+[12:44:45] [Server thread/INFO]: [RotatoR] Disabling RotatoR v1.0.6
