@@ -621,3 +621,10 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [14:18:04] [Server thread/INFO]: .CensingSmile123 issued server command: /townyworld toggle revertentityexpl
 [14:18:06] [Server thread/INFO]: .CensingSmile123 issued server command: /townyworld toggle revertentityexpl
 [14:18:10] [Server thread/INFO]: .CensingSmile123 issued server command: /townyworld toggle revertblockexpl
+[14:18:54] [Server thread/INFO]: .CensingSmile123 issued server command: /townyworld toggle revertblockexpl
+[14:18:57] [Server thread/INFO]: .CensingSmile123 issued server command: /townyworld toggle revertblockexpl
+[14:20:11] [Server thread/INFO]: .CensingSmile123 issued server command: /townyworld toggle revertblockexpl
+[14:21:04] [Server thread/INFO]: .CensingSmile123 issued server command: /townyworld toggle revertblockexpl
+[14:21:21] [Server thread/INFO]: .CensingSmile123 issued server command: /townyworld toggle revertentityexpl
+[14:21:24] [Server thread/INFO]: .CensingSmile123 issued server command: /townyworld toggle revertentityexpl
+[14:21:39] [Server thread/INFO]: .CensingSmile123 issued server command: //pyramid tnt 10

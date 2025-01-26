@@ -11,7 +11,7 @@ forcetownmobs=false
 firespread=true
 forcefirespread=false
 explosions=true
-forceexplosions=false
+forceexplosions=true
 endermanprotect=true
 disablecreaturetrample=true
 
