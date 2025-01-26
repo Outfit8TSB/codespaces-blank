@@ -26,3 +26,7 @@
 26 Jan 2025 13:55:46 [Server thread]: ------------------------------------
 26 Jan 2025 13:55:46 [Server thread]: Version: 0.101.1.0 - Plugin Enabled
 26 Jan 2025 13:55:46 [ForkJoinPool.commonPool-worker-1]: Towny flatfiles and settings successfully backed up.
+26 Jan 2025 14:35:24 [Server thread]: Disabling Towny v0.101.1.0
+26 Jan 2025 14:35:24 [Server thread]: Finishing File IO Tasks...
+26 Jan 2025 14:35:24 [Server thread]: Finishing Universe Tasks...
+26 Jan 2025 14:35:24 [Server thread]: Version: 0.101.1.0 - Plugin Disabled
