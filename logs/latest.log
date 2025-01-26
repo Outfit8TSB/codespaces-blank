@@ -587,3 +587,10 @@ ii<--[HERE]
 [11:56:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17529ms or 350 ticks behind
 [11:56:54] [Server thread/INFO]: .CensingSmile123 issued server command: /minecraft:kill @e[type=tnt]
 [11:56:55] [Server thread/INFO]: [.CensingSmile123: Killed 129851 entities]
+[12:00:00] [Folia Async Scheduler Thread Timer/INFO]: [Towny] [Global Message] 새로운 하루가 시작되었습니다! 세금이 거둬집니다.
+[12:00:00] [ForkJoinPool.commonPool-worker-1/INFO]: [Towny] Cleaning up old backups...
+[12:00:00] [ForkJoinPool.commonPool-worker-1/INFO]: [Towny] Successfully cleaned backups.
+[12:00:00] [ForkJoinPool.commonPool-worker-1/INFO]: [Towny] Making backup...
+[12:00:00] [Folia Async Scheduler Thread Timer/INFO]: [Towny] Towny DailyTimerTask took 40ms to process.
+[12:00:00] [ForkJoinPool.commonPool-worker-1/INFO]: [Towny] Towny flatfiles and settings successfully backed up.
+[12:01:00] [Server thread/INFO]: [Towny] Time until a New Day: 23 hours, 59 minutes

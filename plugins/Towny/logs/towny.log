@@ -22,3 +22,10 @@
 26 Jan 2025 06:52:45 [Server thread]: Version: 0.100.4.0 - Plugin Enabled
 26 Jan 2025 06:52:45 [Folia Async Scheduler Thread #1]: New update available: 0.101.1.1 | Current version: 0.100.4.0
 26 Jan 2025 06:52:45 [Folia Async Scheduler Thread #1]: Download it here: https://github.com/TownyAdvanced/Towny/releases/tag/0.101.1.1
+26 Jan 2025 12:00:00 [Folia Async Scheduler Thread Timer]: [Global Message] 새로운 하루가 시작되었습니다! 세금이 거둬집니다.
+26 Jan 2025 12:00:00 [ForkJoinPool.commonPool-worker-1]: Cleaning up old backups...
+26 Jan 2025 12:00:00 [ForkJoinPool.commonPool-worker-1]: Successfully cleaned backups.
+26 Jan 2025 12:00:00 [ForkJoinPool.commonPool-worker-1]: Making backup...
+26 Jan 2025 12:00:00 [Folia Async Scheduler Thread Timer]: Towny DailyTimerTask took 40ms to process.
+26 Jan 2025 12:00:00 [ForkJoinPool.commonPool-worker-1]: Towny flatfiles and settings successfully backed up.
+26 Jan 2025 12:01:00 [Server thread]: Time until a New Day: 23 hours, 59 minutes
