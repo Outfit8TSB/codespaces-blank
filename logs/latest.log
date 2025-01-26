@@ -490,3 +490,7 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [14:55:17] [Server thread/INFO]: [AngelChest] ========================================================
 [14:55:17] [Craft Scheduler Thread - 5 - BlueSlimeCore/INFO]: [Blue Slime Core]  
 [14:55:17] [Craft Scheduler Thread - 5 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] There are no updates available for plugin 'BlueSlimeCore'.
+[16:12:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+e<--[HERE]
+[16:12:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+e<--[HERE]
