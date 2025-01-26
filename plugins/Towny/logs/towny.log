@@ -32,3 +32,23 @@
 26 Jan 2025 13:40:27 [Server thread]: Successfully loaded translations for 42 languages.
 26 Jan 2025 13:40:27 [Server thread]: Language file successfully reloaded
 26 Jan 2025 13:40:27 [Server thread]: Config: Loaded 9 townblock types: shop, inn, arena, jail, default, bank, wilds, farm, embassy.
+26 Jan 2025 13:42:25 [Server thread]: Configuration successfully reloaded.
+26 Jan 2025 13:42:25 [Server thread]: The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 0 does not have a value, falling back to '0'.
+26 Jan 2025 13:42:25 [Server thread]: The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 10 does not have a value, falling back to '0'.
+26 Jan 2025 13:42:25 [Server thread]: The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 20 does not have a value, falling back to '0'.
+26 Jan 2025 13:42:25 [Server thread]: The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 30 does not have a value, falling back to '0'.
+26 Jan 2025 13:42:25 [Server thread]: The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 40 does not have a value, falling back to '0'.
+26 Jan 2025 13:42:25 [Server thread]: The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 60 does not have a value, falling back to '0'.
+26 Jan 2025 13:42:25 [Server thread]: Successfully loaded translations for 42 languages.
+26 Jan 2025 13:42:25 [Server thread]: Language file successfully reloaded
+26 Jan 2025 13:42:25 [Server thread]: Config: Loaded 9 townblock types: shop, inn, arena, jail, default, bank, wilds, farm, embassy.
+26 Jan 2025 13:42:29 [Server thread]: Configuration successfully reloaded.
+26 Jan 2025 13:42:29 [Server thread]: The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 0 does not have a value, falling back to '0'.
+26 Jan 2025 13:42:29 [Server thread]: The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 10 does not have a value, falling back to '0'.
+26 Jan 2025 13:42:29 [Server thread]: The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 20 does not have a value, falling back to '0'.
+26 Jan 2025 13:42:29 [Server thread]: The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 30 does not have a value, falling back to '0'.
+26 Jan 2025 13:42:29 [Server thread]: The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 40 does not have a value, falling back to '0'.
+26 Jan 2025 13:42:29 [Server thread]: The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 60 does not have a value, falling back to '0'.
+26 Jan 2025 13:42:29 [Server thread]: Successfully loaded translations for 42 languages.
+26 Jan 2025 13:42:29 [Server thread]: Language file successfully reloaded
+26 Jan 2025 13:42:29 [Server thread]: Config: Loaded 9 townblock types: shop, inn, arena, jail, default, bank, wilds, farm, embassy.

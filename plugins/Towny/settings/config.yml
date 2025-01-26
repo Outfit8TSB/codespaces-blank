@@ -533,7 +533,7 @@ new_world_settings:
       entities: CREEPER,END_CRYSTAL,ENDER_DRAGON,FIREBALL,SMALL_FIREBALL,TNT,TNT_MINECART,WITHER,WITHER_SKULL
   
       # How long before an entity-caused explosion begins reverting.
-      delay: 20s
+      delay: 0s
   
     # This section is applied to new worlds as default settings when new worlds are detected.
     wild_revert_on_block_explosion:
