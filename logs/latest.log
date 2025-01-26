@@ -519,3 +519,28 @@ ii<--[HERE]
 [11:35:48] [Server thread/INFO]: .CensingSmile123 issued server command: /info
 [11:35:55] [Server thread/INFO]: .CensingSmile123 issued server command: /einfo
 [11:36:00] [Server thread/INFO]: .CensingSmile123 issued server command: /einfo claim
+[11:39:54] [Server thread/INFO]: .CensingSmile123 issued server command: /etnt
+[11:40:17] [Server thread/INFO]: .CensingSmile123 issued server command: /ncp
+[11:40:46] [Server thread/INFO]: .CensingSmile123 issued server command: //pos1
+[11:40:50] [Server thread/INFO]: .CensingSmile123 issued server command: //pos2
+[11:40:55] [Server thread/INFO]: .CensingSmile123 issued server command: //set tnt
+[11:41:02] [Server thread/INFO]: .CensingSmile123 issued server command: /etnt
+[11:41:10] [Server thread/INFO]: Villager EntityVillager['Mason'/13365, uuid='7bf08951-542b-44d1-ac51-405e757c8d80', l='ServerLevel[world]', x=107.82, y=88.77, z=-390.51, cpos=[6, -25], tl=104236, v=true] died, message: 'Mason blew up'
+[11:41:12] [Server thread/INFO]: Villager EntityVillager['Cleric'/13338, uuid='2c8bf57d-42a5-4191-bfd3-db8def36ba57', l='ServerLevel[world]', x=115.51, y=94.00, z=-389.33, cpos=[7, -25], tl=103204, v=true] died, message: 'Cleric blew up'
+[11:41:12] [Server thread/INFO]: Villager EntityVillager['Farmer'/13336, uuid='e0b488c2-bb67-4c68-959c-8ae32a2338b5', l='ServerLevel[world]', x=107.45, y=91.00, z=-384.63, cpos=[6, -25], tl=103045, v=true] died, message: 'Farmer blew up'
+[11:41:13] [Server thread/INFO]: Villager EntityVillager['Villager'/13259, uuid='17db671c-add9-4c09-8a6c-7fa2b73d88e0', l='ServerLevel[world]', x=54.50, y=107.00, z=-373.94, cpos=[3, -24], tl=106777, v=true] died, message: 'Villager blew up'
+[11:41:13] [Server thread/INFO]: Villager EntityVillager['Villager'/13280, uuid='4a3cd39e-b136-4719-a206-6a829f277666', l='ServerLevel[world]', x=78.46, y=102.00, z=-361.81, cpos=[4, -23], tl=104840, v=true] died, message: 'Villager blew up'
+[11:41:14] [Server thread/INFO]: Villager EntityVillager['Villager'/13258, uuid='aa2de187-758f-4cb3-bf3a-4757c029a1ae', l='ServerLevel[world]', x=53.57, y=106.00, z=-374.71, cpos=[3, -24], tl=114311, v=true] died, message: 'Villager blew up'
+[11:41:14] [Server thread/INFO]: Villager EntityVillager['Nitwit'/13282, uuid='d8933aaf-b999-4c7b-96f9-6bd03b8e2433', l='ServerLevel[world]', x=77.05, y=88.56, z=-386.44, cpos=[4, -25], tl=104167, v=true] died, message: 'Nitwit blew up'
+[11:41:15] [Server thread/INFO]: Villager EntityVillager['Farmer'/13260, uuid='62f2f37e-ae11-4476-b368-7f12aff4ed59', l='ServerLevel[world]', x=75.45, y=90.54, z=-403.52, cpos=[4, -26], tl=104914, v=true] died, message: 'Farmer blew up'
+[11:41:35] [Server thread/INFO]: .CensingSmile123 issued server command: /pl
+[11:42:07] [Server thread/INFO]: .CensingSmile123 issued server command: //set tnt
+[11:42:08] [Server thread/INFO]: .CensingSmile123 issued server command: //set tnt
+[11:42:09] [Server thread/INFO]: .CensingSmile123 issued server command: //set tnt
+[11:42:13] [Server thread/INFO]: .CensingSmile123 issued server command: /etnt
+[11:42:15] [Server thread/INFO]: .CensingSmile123 issued server command: /etnt
+[11:42:16] [Server thread/INFO]: .CensingSmile123 issued server command: /etnt
+[11:42:20] [Server thread/INFO]: .CensingSmile123 issued server command: //set tnt
+[11:42:20] [Server thread/INFO]: Villager EntityVillager['Farmer'/13261, uuid='8f505309-0dfb-4d50-9aea-7600358bccd2', l='ServerLevel[world]', x=72.27, y=87.00, z=-408.50, cpos=[4, -26], tl=106441, v=true] died, message: 'Farmer blew up'
+[11:42:22] [Server thread/INFO]: .CensingSmile123 issued server command: //set tnt
+[11:42:25] [Server thread/INFO]: .CensingSmile123 issued server command: //set tnt
