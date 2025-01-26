@@ -514,3 +514,8 @@ ii<--[HERE]
 [11:26:01] [Server thread/INFO]: .CensingSmile123 issued server command: /garbage collection
 [11:29:00] [Server thread/INFO]: .CensingSmile123 issued server command: /garbage collection
 [11:29:02] [Server thread/INFO]: .CensingSmile123 issued server command: /egc
+[11:34:06] [Server thread/INFO]: .CensingSmile123 issued server command: /egc
+[11:35:40] [Server thread/INFO]: .CensingSmile123 issued server command: /claim
+[11:35:48] [Server thread/INFO]: .CensingSmile123 issued server command: /info
+[11:35:55] [Server thread/INFO]: .CensingSmile123 issued server command: /einfo
+[11:36:00] [Server thread/INFO]: .CensingSmile123 issued server command: /einfo claim
