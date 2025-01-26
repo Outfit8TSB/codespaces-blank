@@ -52,3 +52,7 @@
 26 Jan 2025 13:42:29 [Server thread]: Successfully loaded translations for 42 languages.
 26 Jan 2025 13:42:29 [Server thread]: Language file successfully reloaded
 26 Jan 2025 13:42:29 [Server thread]: Config: Loaded 9 townblock types: shop, inn, arena, jail, default, bank, wilds, farm, embassy.
+26 Jan 2025 13:45:24 [Server thread]: Disabling Towny v0.100.4.0
+26 Jan 2025 13:45:24 [Server thread]: Finishing File IO Tasks...
+26 Jan 2025 13:45:24 [Server thread]: Finishing Universe Tasks...
+26 Jan 2025 13:45:24 [Server thread]: Version: 0.100.4.0 - Plugin Disabled

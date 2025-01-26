@@ -541,3 +541,13 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [13:42:29] [Server thread/INFO]: [Towny] Language file successfully reloaded
 [13:42:29] [Server thread/INFO]: [Towny] Config: Loaded 9 townblock types: shop, inn, arena, jail, default, bank, wilds, farm, embassy.
 [13:42:32] [Server thread/INFO]: .CensingSmile123 issued server command: //pyramid tnt 10
+[13:45:24] [Server thread/INFO]: .CensingSmile123 issued server command: /plugman disable towny
+[13:45:24] [Server thread/INFO]: [Towny] Disabling Towny v0.100.4.0
+[13:45:24] [Server thread/INFO]: ==============================================================
+[13:45:24] [Server thread/INFO]: [Towny] Finishing File IO Tasks...
+[13:45:24] [Server thread/INFO]: [Towny] Finishing Universe Tasks...
+[13:45:24] [Server thread/INFO]: [Towny] Version: 0.100.4.0 - Plugin Disabled
+[13:45:24] [Server thread/INFO]: =============================================================
+[13:45:50] [Server thread/INFO]: .CensingSmile123 issued server command: /pyramid tnt 10
+[13:45:54] [Server thread/INFO]: .CensingSmile123 issued server command: //pyramid tnt 10
+[13:46:34] [Server thread/INFO]: .CensingSmile123 issued server command: //pyramid tnt 10
