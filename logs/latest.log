@@ -529,3 +529,9 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [12:44:12] [Server thread/INFO]: [PurpleIRC] No IRC bots to disconnect.
 [12:44:45] [Server thread/INFO]: .CensingSmile123 issued server command: /plugman disable RotatoR
 [12:44:45] [Server thread/INFO]: [RotatoR] Disabling RotatoR v1.0.6
+[12:46:15] [Server thread/INFO]: .CensingSmile123 issued server command: /plugman disable RandomTP
+[12:46:15] [Server thread/INFO]: [RandomTP] Disabling RandomTP v2.3
+[12:47:52] [Server thread/INFO]: .CensingSmile123 issued server command: /plugman disable veinminer
+[12:47:52] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.0.0
+[12:47:52] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[12:48:11] [Server thread/INFO]: .CensingSmile123 issued server command: /pl
