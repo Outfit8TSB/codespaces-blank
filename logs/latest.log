@@ -535,3 +535,4 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [12:47:52] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.0.0
 [12:47:52] [Server thread/INFO]: [VeinMiner] Clearing localized data
 [12:48:11] [Server thread/INFO]: .CensingSmile123 issued server command: /pl
+[12:57:22] [Server thread/INFO]: .CensingSmile123 issued server command: /debug
