@@ -486,3 +486,9 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [02:38:00] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [02:38:00] [Server thread/INFO]: [AngelChest] ========================================================
 [02:38:21] [Server thread/INFO]: [Not Secure] [Server] hello sir
+[04:57:07] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username CensingSmile123
+[04:57:07] [localSession-7-2/INFO]: [Geyser-Spigot] CensingSmile123 (logged in as: CensingSmile123) has connected to the Java server
+[04:57:08] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CensingSmile123 joined (UUID: 00000000-0000-0000-0009-01f322b1b6b3)
+[04:57:08] [Server thread/INFO]: .CensingSmile123 joined the game
+[04:57:08] [Server thread/INFO]: .CensingSmile123[/127.0.0.1:0] logged in with entity id 26 at ([world]-285.76587, 115.51592, 71.479294)
+[04:58:38] [Server thread/INFO]: .CensingSmile123 issued server command: /eco
