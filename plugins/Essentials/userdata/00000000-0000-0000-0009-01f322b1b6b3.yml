@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1737893985179
+  logout: 1737894714119
   login: 1737894042966
 money: '0'
 logoutlocation:
   world: c0654828-629c-4d19-a6cd-149c8afb9e68
   world-name: world
-  x: 71.49867
-  y: 114.42547
-  z: -397.74176
-  yaw: 36.043243408203125
-  pitch: 10.045913696289062
+  x: 224.4355
+  y: 138.65738
+  z: -471.0218
+  yaw: -53.02802276611328
+  pitch: 13.563140869140625
 last-account-name: .CensingSmile123

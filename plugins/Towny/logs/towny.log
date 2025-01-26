@@ -22,3 +22,7 @@
 26 Jan 2025 12:20:20 [Server thread]: Version: 0.100.4.0 - Plugin Enabled
 26 Jan 2025 12:20:20 [Folia Async Scheduler Thread #1]: New update available: 0.101.1.1 | Current version: 0.100.4.0
 26 Jan 2025 12:20:20 [Folia Async Scheduler Thread #1]: Download it here: https://github.com/TownyAdvanced/Towny/releases/tag/0.101.1.1
+26 Jan 2025 12:31:54 [Server thread]: Disabling Towny v0.100.4.0
+26 Jan 2025 12:31:54 [Server thread]: Finishing File IO Tasks...
+26 Jan 2025 12:31:54 [Server thread]: Finishing Universe Tasks...
+26 Jan 2025 12:31:54 [Server thread]: Version: 0.100.4.0 - Plugin Disabled
