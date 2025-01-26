@@ -493,3 +493,4 @@ ii<--[HERE]
 [10:02:33] [Server thread/INFO]: .CensingSmile123 joined the game
 [10:02:33] [Server thread/INFO]: .CensingSmile123[/127.0.0.1:0] logged in with entity id 27 at ([world]37.618282, 99.66573, -465.16855)
 [10:03:17] [Craft Scheduler Thread - 183 - InteractiveChat/INFO]: [InteractiveChat] Failed to check against "api.loohpjames.com" for the latest version.. It could be an internet issue or "api.loohpjames.com" is down. If you want disable the update checker, you can disable in config.yml, but we still highly-recommend you to keep your plugin up to date!
+[10:09:17] [Server thread/INFO]: Villager EntityVillager['Villager'/137, uuid='758ffeca-5bed-4138-89fa-950d53cfd822', l='ServerLevel[world]', x=12.41, y=113.92, z=-377.52, cpos=[0, -24], tl=118797, v=true] died, message: 'Villager was slain by Zombie'
