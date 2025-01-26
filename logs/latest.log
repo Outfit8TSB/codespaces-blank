@@ -523,3 +523,11 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [06:41:11] [Server thread/INFO]: .CensingSmile123 issued server command: /etnt
 [06:41:18] [Server thread/INFO]: .CensingSmile123 issued server command: /etnt
 [06:41:42] [Server thread/INFO]: Villager EntityVillager['Villager'/17418, uuid='9bf169a1-7428-4e82-bb8f-b562e2635717', l='ServerLevel[world]', x=19.65, y=117.00, z=-391.88, cpos=[1, -25], tl=22929, v=true] died, message: 'Villager was slain by .CensingSmile123'
+[06:43:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+rotator<--[HERE]
+[06:44:01] [Server thread/INFO]: .CensingSmile123 issued server command: /? rotator
+[06:44:06] [Server thread/INFO]: .CensingSmile123 issued server command: /lesign
+[06:44:32] [Server thread/INFO]: .CensingSmile123 issued server command: /lesign
+[06:44:45] [Server thread/INFO]: .CensingSmile123 issued server command: /nuke
+[06:45:33] [Server thread/INFO]: Villager EntityVillager['Weaponsmith'/17789, uuid='b82df3d2-2bfc-42b3-8d1e-d71137925bbe', l='ServerLevel[world]', x=77.64, y=87.00, z=-387.50, cpos=[4, -25], tl=8677, v=true] died, message: 'Weaponsmith blew up'
+[06:45:55] [Server thread/INFO]: .CensingSmile123 issued server command: /irc
