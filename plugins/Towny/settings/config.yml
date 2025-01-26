@@ -466,7 +466,7 @@ new_world_settings:
   plot_management:
   
     # This section is applied to new worlds as default settings when new worlds are detected.
-    block_delete:
+    block_delete: 'false'
   
       # You can adjust this setting for an existing world using /townyworld toggle unclaimblockdelete
       enabled: 'true'
