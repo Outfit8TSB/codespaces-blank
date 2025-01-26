@@ -1,7 +1,7 @@
-[12:32:26] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-LTS; Microsoft Microsoft-10376803) on Linux 6.5.0-1025-azure (amd64)
-[12:32:26] [ServerMain/INFO]: [bootstrap] Loading NogyangSpigotCraftBukkit 1.21.4-DEV-ver/1.21.4@e9ce664 (2025-01-24T13:32:07Z) for Minecraft 1.21.4
-[12:32:27] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[12:32:28] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: java.lang.IllegalArgumentException: Directory 'plugins/Nucleus-3.0.0-BETA7-MC1.16.5-SpongeAPI8.1-plugin.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+[13:08:01] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-LTS; Microsoft Microsoft-10376803) on Linux 6.5.0-1025-azure (amd64)
+[13:08:01] [ServerMain/INFO]: [bootstrap] Loading NogyangSpigotCraftBukkit 1.21.4-DEV-ver/1.21.4@e9ce664 (2025-01-24T13:32:07Z) for Minecraft 1.21.4
+[13:08:02] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[13:08:03] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: java.lang.IllegalArgumentException: Directory 'plugins/Nucleus-3.0.0-BETA7-MC1.16.5-SpongeAPI8.1-plugin.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
 java.lang.RuntimeException: java.lang.IllegalArgumentException: Directory 'plugins/Nucleus-3.0.0-BETA7-MC1.16.5-SpongeAPI8.1-plugin.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:86) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
@@ -15,234 +15,270 @@ java.lang.RuntimeException: java.lang.IllegalArgumentException: Directory 'plugi
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 Caused by: java.lang.IllegalArgumentException: Directory 'plugins/Nucleus-3.0.0-BETA7-MC1.16.5-SpongeAPI8.1-plugin.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
 	... 10 more
-[12:32:28] [ServerMain/INFO]: [PluginInitializerManager] Initialized 28 plugins
-[12:32:28] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (28):
+[13:08:03] [ServerMain/INFO]: [PluginInitializerManager] Initialized 28 plugins
+[13:08:03] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (28):
  - AngelChest (13.6.1), AutoMessage (2.5.5), BlueSlimeCore (2.9.6.448), ChestShop (3.8.13-SNAPSHOT (build #41)), Citizens (2.0.37-SNAPSHOT (build 3703)), Essentials (2.21.0-dev+160-e2295c1), Geyser-Spigot (2.6.0-SNAPSHOT), InteractiveChat (4.2.16.0), LogBlock (1.14.1-SNAPSHOT (build #65)), LunaChat (3.0.16), NBTAPI (2.14.1), PetShop (1.3), PlaceholderAPI (2.11.6), PlugManX (2.4.1), ProtocolLib (5.3.0), PurpleIRC (1.0-352), RandomTP (2.3), RotatoR (1.0.6), Slimefun (Preview Build), Towny (0.100.4.0), Vault (1.7.2-b107), VeinMiner (2.0.0), ViaBackwards (5.2.1), ViaRewind (4.0.5), ViaVersion (5.2.1), WorldEdit (7.3.11-SNAPSHOT+7005-5bc41bc), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e)), ntdLuckyBlock (2.8.28)
-[12:32:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:32:33] [ServerMain/INFO]: Loaded 1370 recipes
-[12:32:33] [ServerMain/INFO]: Loaded 1481 advancements
-[12:32:33] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[12:32:34] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 254.2ms
-[12:32:34] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[12:32:34] [Server thread/INFO]: Loading properties
-[12:32:34] [Server thread/INFO]: This server is running NogyangSpigotCraftBukkit version 1.21.4-DEV-ver/1.21.4@e9ce664 (2025-01-24T13:32:07Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[12:32:35] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[12:32:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[12:32:35] [Server thread/INFO]: Using 4 threads for Netty based IO
-[12:32:35] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[12:32:35] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[12:32:35] [Server thread/INFO]: Default game type: SURVIVAL
-[12:32:35] [Server thread/INFO]: Generating keypair
-[12:32:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:32:35] [Server thread/INFO]: Using epoll channel type
-[12:32:35] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[12:32:35] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[12:32:36] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_21_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[12:32:44] [Server thread/WARN]: Legacy plugin LunaChat v3.0.16 does not specify an api-version.
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loading 5 libraries... please wait
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/ch/ethz/globis/phtree/phtree/2.8.1/phtree-2.8.1.jar
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-platform-bukkit/4.3.3/adventure-platform-bukkit-4.3.3.jar
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-platform-api/4.3.3/adventure-platform-api-4.3.3.jar
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.3/adventure-text-serializer-bungeecord-4.3.3.jar
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.jar
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-platform-facet/4.3.3/adventure-platform-facet-4.3.3.jar
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-platform-viaversion/4.3.3/adventure-platform-viaversion-4.3.3.jar
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
-[12:32:44] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar
-[12:32:44] [Server thread/WARN]: Legacy plugin PurpleIRC v1.0-352 does not specify an api-version.
-[12:32:44] [Server thread/WARN]: Legacy plugin RandomTP v2.3 does not specify an api-version.
-[12:32:44] [Server thread/WARN]: Legacy plugin ChestShop v3.8.13-SNAPSHOT (build #41) does not specify an api-version.
-[12:32:44] [Server thread/WARN]: Legacy plugin AutoMessage v2.5.5 does not specify an api-version.
-[12:32:44] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.2-b107
-[12:32:44] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
-[12:32:44] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
-[12:32:44] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[12:32:45] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[12:32:45] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[12:32:45] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[12:32:45] [Server thread/INFO]: [ViaRewind] Registering protocols...
-[12:32:45] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[12:32:45] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.11-SNAPSHOT+7005-5bc41bc
-[12:32:46] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@43c0f31d]
-[12:32:46] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[12:32:46] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[12:32:46] [Server thread/INFO]: [floodgate] Took 521ms to boot Floodgate
-[12:32:46] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
-[12:32:47] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.4) has not yet been tested! Proceed with caution.
-[12:32:47] [Server thread/INFO]: [Slimefun] Loading server plugin Slimefun vPreview Build
-[12:32:47] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+160-e2295c1
-[12:32:47] [Server thread/INFO]: [Towny] Loading server plugin Towny v0.100.4.0
-[12:32:47] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.1
-[12:32:47] [Server thread/INFO]: [PetShop] Loading server plugin PetShop v1.3
-[12:32:47] [Server thread/INFO]: [LogBlock] Loading server plugin LogBlock v1.14.1-SNAPSHOT (build #65)
-[12:32:47] [Server thread/INFO]: [LunaChat] Loading server plugin LunaChat v3.0.16
-[12:32:47] [Server thread/INFO]: [NBTAPI] Loading server plugin NBTAPI v2.14.1
-[12:32:47] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_21_R3! Trying to find NMS support
-[12:32:47] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R3' loaded!
-[12:32:47] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'NBTAPI' to create a bStats instance!
-[12:32:47] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
-[12:32:47] [Thread-7/INFO]: [NBTAPI] [NBTAPI] The NBT-API seems to be up-to-date!
-[12:32:47] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[12:32:47] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[12:32:47] [Server thread/INFO]: [VeinMiner] Loading server plugin VeinMiner v2.0.0
-[12:32:47] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.6.1
-[12:32:47] [Server thread/INFO]: [Citizens] Loading server plugin Citizens v2.0.37-SNAPSHOT (build 3703)
-[12:32:47] [Server thread/INFO]: [ntdLuckyBlock] Loading server plugin ntdLuckyBlock v2.8.28
-[12:32:47] [Server thread/INFO]: [ntdLuckyBlock] WorldGuard not found, support disabled
-[12:32:47] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v2.4.1
-[12:32:47] [Server thread/INFO]: [PurpleIRC] Loading server plugin PurpleIRC v1.0-352
-[12:32:47] [Server thread/INFO]: [InteractiveChat] Loading server plugin InteractiveChat v4.2.16.0
-[12:32:47] [Server thread/INFO]: [Blue Slime Core] Loading server plugin BlueSlimeCore v2.9.6.448
-[12:32:47] [Server thread/INFO]: [RandomTP] Loading server plugin RandomTP v2.3
-[12:32:47] [Server thread/INFO]: [ChestShop] Loading server plugin ChestShop v3.8.13-SNAPSHOT (build #41)
-[12:32:47] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.5
-[12:32:47] [Server thread/INFO]: [AutoMessage] Loading server plugin AutoMessage v2.5.5
-[12:32:47] [Server thread/INFO]: [RotatoR] Loading server plugin RotatoR v1.0.6
-[12:32:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[12:32:47] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
-[12:32:47] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[12:32:48] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[12:32:48] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
-[12:32:48] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.11-SNAPSHOT+7005-5bc41bc
-[12:32:48] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[12:32:48] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[12:32:48] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
-[12:32:49] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
-[12:32:49] [Server thread/INFO]: [PlugManX] Enabling PlugManX v2.4.1
-[12:32:49] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[12:32:49] [Server thread/WARN]: [PlugManX] It seems like you're running on paper.
-[12:32:49] [Server thread/WARN]: [PlugManX] PlugManX cannot interact with paper-plugins, yet.
-[12:32:49] [Server thread/WARN]: [PlugManX] Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
-[12:32:49] [Server thread/WARN]: [PlugManX] Or create an issue on GitHub: https://github.com/TheBlackEntity/PlugMan
-[12:32:49] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[12:32:50] [Server thread/INFO]: [Blue Slime Core] Enabling BlueSlimeCore v2.9.6.448
-[12:32:50] [Server thread/INFO]: [Blue Slime Core] Successfully loaded 3 language(s).
-[12:32:50] [Server thread/INFO]: [Blue Slime Core] Detected server as regular SpigotMC/PaperMC (not Folia)
-[12:32:50] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.5
-[12:32:50] [Server thread/INFO]: Preparing level "world"
-[12:32:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:32:51] [Server thread/INFO]: Preparing spawn area: 0%
-[12:32:51] [Server thread/INFO]: Preparing spawn area: 2%
-[12:32:52] [Server thread/INFO]: Preparing spawn area: 63%
-[12:32:52] [Server thread/INFO]: Time elapsed: 1006 ms
-[12:32:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[12:32:52] [Server thread/INFO]: Preparing spawn area: 0%
-[12:32:52] [Server thread/INFO]: Time elapsed: 255 ms
-[12:32:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[12:32:52] [Server thread/INFO]: Preparing spawn area: 0%
-[12:32:52] [Server thread/INFO]: Time elapsed: 151 ms
-[12:32:52] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
-[12:32:52] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
-[12:32:52] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[12:32:52] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[12:32:52] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[12:32:53] [Server thread/INFO]: [Slimefun] Enabling Slimefun vPreview Build
-[12:32:53] [Server thread/INFO]: [Slimefun] Paper was detected! Performance optimizations have been applied.
-[12:32:53] [Server thread/INFO]: [Slimefun] Creating directories...
-[12:32:53] [Server thread/INFO]: [Slimefun] Loading language files...
-[12:32:53] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:32:54] [Server thread/INFO]: [Slimefun] Loaded language "en"
-[12:32:54] [Server thread/INFO]: [Slimefun] Available languages: en, de, fr, it, es, ru, pl, uk, sv, nl, da, cs, ro, bg, pt, pt-BR, hu, lv, sk, vi, id, zh-CN, zh-TW, ja, ko, he, ar, tr, fa, th, tl
-[12:32:54] [Server thread/INFO]: [Slimefun] Using legacy storage for player data
-[12:32:54] [Server thread/INFO]: [Slimefun] Enabled Analytics Service
-[12:32:54] [Slimefun Metrics/INFO]: [Slimefun] MetricsModule does not exist, downloading...
-[12:32:54] [Server thread/INFO]: [Slimefun] Starting Auto-Updater...
-[12:32:54] [Server thread/WARN]: [Slimefun] #######################################################
-[12:32:54] [Server thread/WARN]: [Slimefun] It looks like you are using an unofficially modified build of Slimefun!
-[12:32:54] [Server thread/WARN]: [Slimefun] Auto-Updates have been disabled, this build is not considered safe.
-[12:32:54] [Server thread/WARN]: [Slimefun] Do not report bugs encountered in this Version of Slimefun to any official sources.
-[12:32:54] [Server thread/WARN]: [Slimefun] #######################################################
-[12:32:54] [Server thread/INFO]: [Slimefun] Loading GEO-Resources...
-[12:32:54] [Server thread/INFO]: [Slimefun] Loading Tags...
-[12:32:54] [Server thread/INFO]: [Slimefun] Loading items...
-[12:32:54] [Slimefun Metrics/INFO]: [Slimefun] # Starting download of MetricsModule build: #29
-[12:32:54] [Slimefun Metrics/WARN]: [Slimefun] Failed to download the latest jar file from GitHub. Response code: 302
-[12:32:54] [Slimefun Metrics/WARN]: [Slimefun] Failed to start metrics as the file could not be downloaded.
-[12:32:55] [Server thread/INFO]: [Slimefun] Loading researches...
-[12:32:55] [Server thread/INFO]: [Slimefun] Loading Wiki pages...
-[12:32:55] [Server thread/INFO]: [Slimefun] Registering listeners...
-[12:32:55] [Server thread/INFO]: [Slimefun] Loading Third-Party plugin integrations...
-[12:32:55] [Server thread/INFO]: [Slimefun] Hooked into Plugin: PlaceholderAPI v2.11.6
-[12:32:55] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: slimefun [Preview Build]
-[12:32:55] [Server thread/INFO]: [Slimefun] Hooked into Plugin: WorldEdit v7.3.11-SNAPSHOT+7005-5bc41bc
-[12:32:55] [Server thread/INFO]: [Slimefun] Slimefun has finished loading in 1.73s
-[12:32:55] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+160-e2295c1
-[12:32:55] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected Legacy 1.8 Potion Meta Provider as the provider for PotionMetaProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[12:32:55] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
-[12:32:55] [Server thread/INFO]: [Essentials] Using locale en
-[12:32:55] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[12:32:56] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[12:32:56] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
-[12:32:56] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
-[12:32:56] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
-[12:32:56] [Server thread/INFO]: [Towny] Enabling Towny v0.100.4.0
-[12:32:56] [Server thread/INFO]: ====================      Towny      ========================
-[12:32:56] [Server thread/INFO]: [Towny] Successfully loaded translations for 42 languages.
-[12:32:56] [Server thread/INFO]: [Towny] Config: Loaded 9 townblock types: shop, inn, arena, jail, default, bank, wilds, farm, embassy.
-[12:32:56] [Server thread/INFO]: [Towny] Database: [Load] flatfile [Save] flatfile
-[12:32:57] [Server thread/INFO]: [Towny] Database: Loaded in 37ms.
-[12:32:57] [Server thread/WARN]: [Towny] The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 0 does not have a value, falling back to '0'.
-[12:32:57] [Server thread/WARN]: [Towny] The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 10 does not have a value, falling back to '0'.
-[12:32:57] [Server thread/WARN]: [Towny] The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 20 does not have a value, falling back to '0'.
-[12:32:57] [Server thread/WARN]: [Towny] The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 30 does not have a value, falling back to '0'.
-[12:32:57] [Server thread/WARN]: [Towny] The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 40 does not have a value, falling back to '0'.
-[12:32:57] [Server thread/WARN]: [Towny] The 'nationCapitalBonusOutpostLimit' option in the nation levels at numResidents = 60 does not have a value, falling back to '0'.
-[12:32:57] [ForkJoinPool.commonPool-worker-1/INFO]: [Towny] Cleaning up old backups...
-[12:32:57] [ForkJoinPool.commonPool-worker-1/INFO]: [Towny] Successfully cleaned backups.
-[12:32:57] [ForkJoinPool.commonPool-worker-1/INFO]: [Towny] Making backup...
-[12:32:57] [Folia Async Scheduler Thread #1/INFO]: [Towny] Checking for updates...
-[12:32:57] [Folia Async Scheduler Thread #0/INFO]: [Towny] Time until a New Day: 23 hours, 27 minutes, 3 seconds
-[12:32:57] [ForkJoinPool.commonPool-worker-1/INFO]: [Towny] Towny flatfiles and settings successfully backed up.
-[12:32:57] [Server thread/INFO]: [Towny] Searching for third-party plugins...
-[12:32:57] [Server thread/INFO]: [Towny] Plugins found: 
-[12:32:57] [Server thread/INFO]: [Towny]   Permissions: TownyPerms, BukkitPermissions
-[12:32:57] [Server thread/INFO]: [Towny]   Economy: EssentialsX Economy via Vault
-[12:32:57] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: townyadvanced [0.100.4.0]
-[12:32:57] [Server thread/INFO]: [Towny]   Add-ons: PlaceholderAPI v2.11.6
-[12:32:57] [Server thread/INFO]: [Towny]   Warning: EssentialsX Economy has been known to reset
-                           town and nation bank accounts on rare occasions.
-[12:32:57] [Server thread/INFO]: =============================================================
-[12:32:57] [Server thread/INFO]: [Towny] Version: 0.100.4.0 - Plugin Enabled
-[12:32:57] [Server thread/INFO]: =============================================================
-[12:32:57] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.1
-[12:32:57] [Server thread/INFO]: [PetShop] Enabling PetShop v1.3
-[12:32:57] [Server thread/ERROR]: [PetShop] Disabled due to no Vault dependency found!
-[12:32:57] [Server thread/INFO]: [PetShop] Disabling PetShop v1.3
-[12:32:57] [Server thread/INFO]: [LogBlock] Enabling LogBlock v1.14.1-SNAPSHOT (build #65)
-[12:32:57] [Server thread/INFO]: [LogBlock] Connecting to minecraft@jdbc:mysql://localhost:3306/minecraft...
-[12:32:57] [Server thread/INFO]: [de.diddiz.lib.com.zaxxer.hikari.HikariDataSource] LogBlock-Connection-Pool - Starting...
-[12:32:57] [Folia Async Scheduler Thread #1/INFO]: [Towny] New update available: 0.101.1.1 | Current version: 0.100.4.0
-[12:32:57] [Folia Async Scheduler Thread #1/INFO]: [Towny] Download it here: https://github.com/TownyAdvanced/Towny/releases/tag/0.101.1.1
-[12:32:58] [Server thread/ERROR]: [de.diddiz.lib.com.zaxxer.hikari.pool.HikariPool] LogBlock-Connection-Pool - Exception during pool initialization.
+[13:08:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:08:08] [ServerMain/INFO]: Loaded 1370 recipes
+[13:08:08] [ServerMain/INFO]: Loaded 1481 advancements
+[13:08:08] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[13:08:08] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 233.3ms
+[13:08:09] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[13:08:09] [Server thread/INFO]: Loading properties
+[13:08:09] [Server thread/INFO]: This server is running NogyangSpigotCraftBukkit version 1.21.4-DEV-ver/1.21.4@e9ce664 (2025-01-24T13:32:07Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[13:08:09] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[13:08:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:08:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:08:10] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[13:08:10] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[13:08:10] [Server thread/INFO]: Default game type: SURVIVAL
+[13:08:10] [Server thread/INFO]: Generating keypair
+[13:08:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:08:10] [Server thread/INFO]: Using epoll channel type
+[13:08:10] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:08:10] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[13:08:11] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_21_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[13:08:18] [Server thread/WARN]: Legacy plugin LunaChat v3.0.16 does not specify an api-version.
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loading 5 libraries... please wait
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/ch/ethz/globis/phtree/phtree/2.8.1/phtree-2.8.1.jar
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-platform-bukkit/4.3.3/adventure-platform-bukkit-4.3.3.jar
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-platform-api/4.3.3/adventure-platform-api-4.3.3.jar
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.3/adventure-text-serializer-bungeecord-4.3.3.jar
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.jar
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-platform-facet/4.3.3/adventure-platform-facet-4.3.3.jar
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-platform-viaversion/4.3.3/adventure-platform-viaversion-4.3.3.jar
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
+[13:08:18] [Server thread/INFO]: [SpigotLibraryLoader] [Citizens] Loaded library /home/codespace/NogyangSpigot-Server/libraries/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar
+[13:08:18] [Server thread/WARN]: Legacy plugin PurpleIRC v1.0-352 does not specify an api-version.
+[13:08:19] [Server thread/WARN]: Legacy plugin RandomTP v2.3 does not specify an api-version.
+[13:08:19] [Server thread/WARN]: Legacy plugin ChestShop v3.8.13-SNAPSHOT (build #41) does not specify an api-version.
+[13:08:19] [Server thread/WARN]: Legacy plugin AutoMessage v2.5.5 does not specify an api-version.
+[13:08:19] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.2-b107
+[13:08:19] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
+[13:08:19] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
+[13:08:19] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[13:08:19] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[13:08:19] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[13:08:19] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[13:08:20] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[13:08:20] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[13:08:20] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.11-SNAPSHOT+7005-5bc41bc
+[13:08:20] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1a7e0a81]
+[13:08:20] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[13:08:21] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[13:08:21] [Server thread/INFO]: [floodgate] Took 424ms to boot Floodgate
+[13:08:21] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[13:08:21] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.4) has not yet been tested! Proceed with caution.
+[13:08:21] [Server thread/INFO]: [Slimefun] Loading server plugin Slimefun vPreview Build
+[13:08:21] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+160-e2295c1
+[13:08:21] [Server thread/INFO]: [Towny] Loading server plugin Towny v0.100.4.0
+[13:08:21] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.1
+[13:08:21] [Server thread/INFO]: [PetShop] Loading server plugin PetShop v1.3
+[13:08:21] [Server thread/INFO]: [LogBlock] Loading server plugin LogBlock v1.14.1-SNAPSHOT (build #65)
+[13:08:21] [Server thread/INFO]: [LunaChat] Loading server plugin LunaChat v3.0.16
+[13:08:21] [Server thread/INFO]: [NBTAPI] Loading server plugin NBTAPI v2.14.1
+[13:08:21] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_21_R3! Trying to find NMS support
+[13:08:21] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R3' loaded!
+[13:08:21] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'NBTAPI' to create a bStats instance!
+[13:08:21] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[13:08:22] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[13:08:22] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[13:08:22] [Server thread/INFO]: [VeinMiner] Loading server plugin VeinMiner v2.0.0
+[13:08:22] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.6.1
+[13:08:22] [Thread-7/INFO]: [NBTAPI] [NBTAPI] The NBT-API seems to be up-to-date!
+[13:08:22] [Server thread/INFO]: [Citizens] Loading server plugin Citizens v2.0.37-SNAPSHOT (build 3703)
+[13:08:22] [Server thread/INFO]: [ntdLuckyBlock] Loading server plugin ntdLuckyBlock v2.8.28
+[13:08:22] [Server thread/INFO]: [ntdLuckyBlock] WorldGuard not found, support disabled
+[13:08:22] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v2.4.1
+[13:08:22] [Server thread/INFO]: [PurpleIRC] Loading server plugin PurpleIRC v1.0-352
+[13:08:22] [Server thread/INFO]: [InteractiveChat] Loading server plugin InteractiveChat v4.2.16.0
+[13:08:22] [Server thread/INFO]: [Blue Slime Core] Loading server plugin BlueSlimeCore v2.9.6.448
+[13:08:22] [Server thread/INFO]: [RandomTP] Loading server plugin RandomTP v2.3
+[13:08:22] [Server thread/INFO]: [ChestShop] Loading server plugin ChestShop v3.8.13-SNAPSHOT (build #41)
+[13:08:22] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.5
+[13:08:22] [Server thread/INFO]: [AutoMessage] Loading server plugin AutoMessage v2.5.5
+[13:08:22] [Server thread/INFO]: [RotatoR] Loading server plugin RotatoR v1.0.6
+[13:08:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:08:22] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[13:08:22] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[13:08:22] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[13:08:22] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[13:08:22] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.11-SNAPSHOT+7005-5bc41bc
+[13:08:22] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[13:08:22] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[13:08:22] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
+[13:08:23] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[13:08:23] [Server thread/INFO]: [PlugManX] Enabling PlugManX v2.4.1
+[13:08:23] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[13:08:23] [Server thread/WARN]: [PlugManX] It seems like you're running on paper.
+[13:08:23] [Server thread/WARN]: [PlugManX] PlugManX cannot interact with paper-plugins, yet.
+[13:08:23] [Server thread/WARN]: [PlugManX] Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
+[13:08:23] [Server thread/WARN]: [PlugManX] Or create an issue on GitHub: https://github.com/TheBlackEntity/PlugMan
+[13:08:23] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[13:08:24] [Server thread/INFO]: [Blue Slime Core] Enabling BlueSlimeCore v2.9.6.448
+[13:08:24] [Server thread/INFO]: [Blue Slime Core] Successfully loaded 3 language(s).
+[13:08:24] [Server thread/INFO]: [Blue Slime Core] Detected server as regular SpigotMC/PaperMC (not Folia)
+[13:08:24] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.5
+[13:08:24] [Server thread/INFO]: Preparing level "world"
+[13:08:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:08:25] [Server thread/INFO]: Preparing spawn area: 0%
+[13:08:25] [Server thread/INFO]: Preparing spawn area: 2%
+[13:08:26] [Server thread/INFO]: Preparing spawn area: 63%
+[13:08:26] [Server thread/INFO]: Time elapsed: 1199 ms
+[13:08:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:08:26] [Server thread/INFO]: Preparing spawn area: 0%
+[13:08:26] [Server thread/INFO]: Time elapsed: 233 ms
+[13:08:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:08:26] [Server thread/INFO]: Preparing spawn area: 0%
+[13:08:26] [Server thread/INFO]: Time elapsed: 135 ms
+[13:08:26] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
+[13:08:26] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
+[13:08:26] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[13:08:26] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[13:08:26] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[13:08:27] [Server thread/INFO]: [Slimefun] Enabling Slimefun vPreview Build
+[13:08:27] [Server thread/INFO]: [Slimefun] Paper was detected! Performance optimizations have been applied.
+[13:08:27] [Server thread/INFO]: [Slimefun] Creating directories...
+[13:08:27] [Server thread/INFO]: [Slimefun] Loading language files...
+[13:08:27] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:08:28] [Server thread/INFO]: [Slimefun] Loaded language "en"
+[13:08:28] [Server thread/INFO]: [Slimefun] Available languages: en, de, fr, it, es, ru, pl, uk, sv, nl, da, cs, ro, bg, pt, pt-BR, hu, lv, sk, vi, id, zh-CN, zh-TW, ja, ko, he, ar, tr, fa, th, tl
+[13:08:28] [Server thread/INFO]: [Slimefun] Using legacy storage for player data
+[13:08:28] [Server thread/INFO]: [Slimefun] Enabled Analytics Service
+[13:08:28] [Slimefun Metrics/INFO]: [Slimefun] MetricsModule does not exist, downloading...
+[13:08:28] [Server thread/INFO]: [Slimefun] Starting Auto-Updater...
+[13:08:28] [Server thread/WARN]: [Slimefun] #######################################################
+[13:08:28] [Server thread/WARN]: [Slimefun] It looks like you are using an unofficially modified build of Slimefun!
+[13:08:28] [Server thread/WARN]: [Slimefun] Auto-Updates have been disabled, this build is not considered safe.
+[13:08:28] [Server thread/WARN]: [Slimefun] Do not report bugs encountered in this Version of Slimefun to any official sources.
+[13:08:28] [Server thread/WARN]: [Slimefun] #######################################################
+[13:08:28] [Server thread/INFO]: [Slimefun] Loading GEO-Resources...
+[13:08:28] [Server thread/INFO]: [Slimefun] Loading Tags...
+[13:08:28] [Server thread/INFO]: [Slimefun] Loading items...
+[13:08:28] [Slimefun Metrics/INFO]: [Slimefun] # Starting download of MetricsModule build: #29
+[13:08:28] [Slimefun Metrics/WARN]: [Slimefun] Failed to download the latest jar file from GitHub. Response code: 302
+[13:08:28] [Slimefun Metrics/WARN]: [Slimefun] Failed to start metrics as the file could not be downloaded.
+[13:08:29] [Server thread/INFO]: [Slimefun] Loading researches...
+[13:08:29] [Server thread/INFO]: [Slimefun] Loading Wiki pages...
+[13:08:29] [Server thread/INFO]: [Slimefun] Registering listeners...
+[13:08:29] [Server thread/INFO]: [Slimefun] Loading Third-Party plugin integrations...
+[13:08:29] [Server thread/INFO]: [Slimefun] Hooked into Plugin: PlaceholderAPI v2.11.6
+[13:08:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: slimefun [Preview Build]
+[13:08:29] [Server thread/INFO]: [Slimefun] Hooked into Plugin: WorldEdit v7.3.11-SNAPSHOT+7005-5bc41bc
+[13:08:29] [Server thread/INFO]: [Slimefun] Slimefun has finished loading in 2.08s
+[13:08:29] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+160-e2295c1
+[13:08:29] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[13:08:29] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[13:08:29] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[13:08:29] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[13:08:30] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[13:08:30] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[13:08:30] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[13:08:30] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[13:08:30] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[13:08:30] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[13:08:30] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[13:08:30] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
+[13:08:30] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[13:08:30] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[13:08:30] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[13:08:30] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[13:08:30] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[13:08:30] [Server thread/INFO]: [Essentials] Selected Legacy 1.8 Potion Meta Provider as the provider for PotionMetaProvider
+[13:08:30] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[13:08:30] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[13:08:30] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[13:08:30] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[13:08:30] [Server thread/INFO]: [Essentials] Using locale en
+[13:08:30] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[13:08:30] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[13:08:30] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[13:08:30] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[13:08:30] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[13:08:30] [Server thread/INFO]: [Towny] Enabling Towny v0.100.4.0
+[13:08:30] [Server thread/INFO]: ====================      Towny      ========================
+[13:08:30] [Server thread/WARN]: [Towny] Loading error: Failed to load file plugins/Towny/settings/config.yml (does it pass a yaml parser?).
+[13:08:30] [Server thread/WARN]: [Towny] https://jsonformatter.org/yaml-parser
+[13:08:30] [Server thread/WARN]: [Towny] while parsing a block mapping
+ in 'reader', line 469, column 5:
+        block_delete:
+        ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 530, column 7:
+          enabled: 'false'
+          ^
+
+[13:08:30] [Server thread/WARN]: [Towny] Loading error: Failed to load file plugins/Towny/settings/config.yml (does it pass a yaml parser?).
+[13:08:30] [Server thread/WARN]: [Towny] https://jsonformatter.org/yaml-parser
+[13:08:30] [Server thread/WARN]: [Towny] while parsing a block mapping
+ in 'reader', line 469, column 5:
+        block_delete:
+        ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 530, column 7:
+          enabled: 'false'
+          ^
+
+[13:08:30] [Server thread/ERROR]: [Towny] Unable to migrate old database settings to Towny\data\settings\database.yml
+com.palmergames.bukkit.towny.exceptions.initialization.TownyInitException: Unable to migrate old database settings to Towny\data\settings\database.yml
+	at Towny-0.100.4.0.jar/com.palmergames.bukkit.towny.Towny.loadDatabaseConfig(Towny.java:286) ~[Towny-0.100.4.0.jar:?]
+	at Towny-0.100.4.0.jar/com.palmergames.bukkit.towny.Towny.loadFoundation(Towny.java:223) ~[Towny-0.100.4.0.jar:?]
+	at Towny-0.100.4.0.jar/com.palmergames.bukkit.towny.Towny.onEnable(Towny.java:137) ~[Towny-0.100.4.0.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[NogyangSpigot-API-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[NogyangSpigot-API-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655) ~[?:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604) ~[?:?]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:769) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:531) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:326) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1236) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[13:08:30] [Server thread/INFO]: [Towny] Searching for third-party plugins...
+[13:08:30] [Server thread/INFO]: [Towny] Plugins found: 
+[13:08:30] [Server thread/INFO]: [Towny]   Permissions: TownyPerms, BukkitPermissions
+[13:08:30] [Server thread/ERROR]: Error occurred while enabling Towny v0.100.4.0 (Is it up to date?)
+java.lang.NullPointerException: Cannot invoke "com.palmergames.bukkit.config.CommentedConfiguration.getString(String, String)" because "com.palmergames.bukkit.towny.TownySettings.config" is null
+	at Towny-0.100.4.0.jar/com.palmergames.bukkit.towny.TownySettings.getBoolean(TownySettings.java:593) ~[Towny-0.100.4.0.jar:?]
+	at Towny-0.100.4.0.jar/com.palmergames.bukkit.towny.TownySettings.isUsingEconomy(TownySettings.java:1372) ~[Towny-0.100.4.0.jar:?]
+	at Towny-0.100.4.0.jar/com.palmergames.bukkit.towny.hooks.PluginIntegrations.checkForPlugins(PluginIntegrations.java:89) ~[Towny-0.100.4.0.jar:?]
+	at Towny-0.100.4.0.jar/com.palmergames.bukkit.towny.Towny.onEnable(Towny.java:158) ~[Towny-0.100.4.0.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[NogyangSpigot-API-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[NogyangSpigot-API-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655) ~[?:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604) ~[?:?]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:769) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:531) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:326) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1236) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[13:08:30] [Server thread/INFO]: [Towny] Disabling Towny v0.100.4.0
+[13:08:30] [Server thread/INFO]: ==============================================================
+[13:08:30] [Server thread/INFO]: [Towny] Finishing Universe Tasks...
+[13:08:30] [Server thread/INFO]: [Towny] Version: 0.100.4.0 - Plugin Disabled
+[13:08:30] [Server thread/INFO]: =============================================================
+[13:08:30] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.1
+[13:08:30] [Server thread/INFO]: [PetShop] Enabling PetShop v1.3
+[13:08:30] [Server thread/ERROR]: [PetShop] Disabled due to no Vault dependency found!
+[13:08:30] [Server thread/INFO]: [PetShop] Disabling PetShop v1.3
+[13:08:30] [Server thread/INFO]: [LogBlock] Enabling LogBlock v1.14.1-SNAPSHOT (build #65)
+[13:08:31] [Server thread/INFO]: [LogBlock] Connecting to minecraft@jdbc:mysql://localhost:3306/minecraft...
+[13:08:31] [Server thread/INFO]: [de.diddiz.lib.com.zaxxer.hikari.HikariDataSource] LogBlock-Connection-Pool - Starting...
+[13:08:32] [Server thread/ERROR]: [de.diddiz.lib.com.zaxxer.hikari.pool.HikariPool] LogBlock-Connection-Pool - Exception during pool initialization.
 com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
@@ -302,244 +338,192 @@ Caused by: java.net.ConnectException: Connection refused
 	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:961) ~[mysql-connector-j-9.1.0.jar:9.1.0]
 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:825) ~[mysql-connector-j-9.1.0.jar:9.1.0]
 	... 25 more
-[12:32:58] [Server thread/ERROR]: [LogBlock] Could not connect to the Database! Please check your config! Communications link failure
+[13:08:32] [Server thread/ERROR]: [LogBlock] Could not connect to the Database! Please check your config! Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
-[12:32:58] [Server thread/INFO]: [LunaChat] Enabling LunaChat v3.0.16*
-[12:32:58] [Server thread/INFO]: [NBTAPI] Enabling NBTAPI v2.14.1
-[12:32:58] [Server thread/INFO]: [NBTAPI] Checking bindings...
-[12:32:58] [Server thread/INFO]: [NBTAPI] All Classes were able to link!
-[12:32:58] [Server thread/INFO]: [NBTAPI] All Methods were able to link!
-[12:32:58] [Server thread/INFO]: [NBTAPI] Running NBT reflection test...
-[12:32:58] [Server thread/INFO]: [NBTAPI] Success! This version of NBT-API is compatible with your server.
-[12:32:58] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
-[12:32:59] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v2.0.0
-[12:32:59] [Server thread/INFO]: [VeinMiner] Using JSON for persistent storage.
-[12:32:59] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
-[12:32:59] [Server thread/INFO]: [VeinMiner] Unknown or invalid block state string for input: "minecraft:grass". Is it an item?
-[12:32:59] [Server thread/INFO]: [VeinMiner] Added 12 aliases.
-[12:32:59] [Server thread/INFO]: [VeinMiner] Registered category with id "Axe" holding 6 unique items and 25 unique blocks.
-[12:32:59] [Server thread/INFO]: [VeinMiner] Registered category with id "Hoe" holding 6 unique items and 10 unique blocks.
-[12:32:59] [Server thread/INFO]: [VeinMiner] Registered category with id "Pickaxe" holding 6 unique items and 23 unique blocks.
-[12:32:59] [Server thread/INFO]: [VeinMiner] Registered category with id "Shears" holding 1 unique items and 26 unique blocks.
-[12:32:59] [Server thread/INFO]: [VeinMiner] Registered category with id "Shovel" holding 6 unique items and 9 unique blocks.
-[12:32:59] [Server thread/INFO]: [VeinMiner] Registering commands
-[12:32:59] [Server thread/INFO]: [VeinMiner] Registering events
-[12:32:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: veinminer [2.0.0]
-[12:32:59] [Server thread/INFO]: [VeinMiner] Vault found. Attempting to enable economy support...
-[12:32:59] [Server thread/INFO]: [VeinMiner] Economy found! Hooked successfully.
-[12:32:59] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.6.1
-[12:32:59] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
-[12:32:59] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
-[12:32:59] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
-[12:32:59] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
-[12:32:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: angelchest [GENERIC]
-[12:32:59] [Server thread/INFO]: [AngelChest] Successfully hooked into Vault and the EconomyProvider, enabling economy functions.
-[12:32:59] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
-[12:32:59] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.6.1 (Premium: false)
-[12:32:59] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.37-SNAPSHOT (build 3703)
-[12:32:59] [Server thread/INFO]: [Citizens] Loaded 0 templates.
-[12:32:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: citizensplaceholder [1.0.0]
-[12:32:59] [Server thread/INFO]: [Citizens] Loaded economy handling via Vault.
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] Enabling ntdLuckyBlock v2.8.28
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] Starting LuckyBlock (ntdLuckyBlock) v2.8.28, build135(21/12/2024), free
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock]   ╭╮╱╱╭╮╱╭┳━━━┳╮╭━┳╮╱╱╭┳━━╮╭╮╱╱╭━━━┳━━━┳╮╭━╮
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock]   ┃┃╱╱┃┃╱┃┃╭━╮┃┃┃╭┫╰╮╭╯┃╭╮┃┃┃╱╱┃╭━╮┃╭━╮┃┃┃╭╯
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock]   ┃┃╱╱┃┃╱┃┃┃╱╰┫╰╯╯╰╮╰╯╭┫╰╯╰┫┃╱╱┃┃╱┃┃┃╱╰┫╰╯╯
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock]   ┃┃╱╭┫┃╱┃┃┃╱╭┫╭╮┃╱╰╮╭╯┃╭━╮┃┃╱╭┫┃╱┃┃┃╱╭┫╭╮┃
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock]   ┃╰━╯┃╰━╯┃╰━╯┃┃┃╰╮╱┃┃╱┃╰━╯┃╰━╯┃╰━╯┃╰━╯┃┃┃╰╮
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock]   ╰━━━┻━━━┻━━━┻╯╰━╯╱╰╯╱╰━━━┻━━━┻━━━┻━━━┻╯╰━╯ NTD
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock]           Made with love by DenBeKKer
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] 
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] =-= SUPPORT § BUG REPORTING § FEATURE REQUESTING =-=
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock]  > Discord - https://discord.gg/vbYW3sperj
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock]  > Vkontakte - https://vk.com/danirodplay (Rus)
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] =-= SUPPORT § BUG REPORTING § FEATURE REQUESTING =-=
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] Loaded main material version
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] Loading NMS for your platform (1.21.4-DEV-e9ce664 (MC: 1.21.4), v1_21_R3)...
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] Loading language file "en" by DenBeKKer
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] Vault connected
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] WorldEdit connected
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] SlimeFun connected
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] TokenManager not found
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] WorldGuard not found
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] Found 3/5 compatible plugins
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] Loading system...
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] Loaded 11 internal custom items...
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] Loaded 11 custom items... (Total)
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] Loaded 16 luckyblock types...
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] System loaded (took 106 ms)...
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] If you love my plugin, support me with 5 stars review(https://www.spigotmc.org/resources/92026/) or consider to purchase premium plugin version (https://www.spigotmc.org/resources/94872/)
-[12:32:59] [Server thread/INFO]: [ntdLuckyBlock] Enabled (took 176 ms)... 
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Enabling PurpleIRC v1.0-352*
-[12:32:59] [Server thread/INFO]: [PurpleIRC] MC version detected: 1.21.4-DEV-e9ce664 (MC: 1.21.4)
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Registering GamePlayerPlayerAdvancementDoneListener because version >= 1.12
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Detecting plugin hooks...
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: Herochat
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: GriefPrevention
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: TitanChat
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: VentureChat
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: Prism
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: RedditStream
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: TownyChat
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: CleverNotch
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: mcMMO
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: FactionChat
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: AdminPrivateChat
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: CommandBook
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: Jobs
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: DeathMessages
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: DeathMessagesPrime
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: Shortify
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: dynmap
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: OreBroadcast
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: VanishNoPacket
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: SuperVanish
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: SuperVanish
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: ReportRTS
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: SimpleTicketManager
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: NTheEndAgain
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook enabled: Essentials
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook enabled: PlaceholderAPI
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: DiscordSRV
-[12:32:59] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: UltimateChat
-[12:33:00] [Server thread/INFO]: [PurpleIRC] Checking for bot files in plugins/PurpleIRC/bots
-[12:33:00] [Server thread/INFO]: [PurpleIRC] Hooked into Vault v1.7.2-b107
-[12:33:00] [Server thread/INFO]: [InteractiveChat] Enabling InteractiveChat v4.2.16.0
-[12:33:00] [Server thread/INFO]: [InteractiveChat] Opened Sqlite database successfully
-[12:33:00] [Server thread/INFO]: [InteractiveChat] InteractiveChat has hooked into Essentials!
-[12:33:00] [Server thread/INFO]: [InteractiveChat] InteractiveChat has hooked into ViaVersion!
-[12:33:00] [Server thread/INFO]: [InteractiveChat] InteractiveChat has hooked into Floodgate!
-[12:33:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: interactivechat [4.2.16.0]
-[12:33:00] [Server thread/INFO]: [InteractiveChat] InteractiveChat has been Enabled!
-[12:33:00] [Server thread/INFO]: [RandomTP] Enabling RandomTP v2.3*
-[12:33:00] [Server thread/INFO]: [RandomTP] Checking/Fixing format of portals.yml
-[12:33:00] [Server thread/INFO]: [ChestShop] Enabling ChestShop v3.8.13-SNAPSHOT (build #41)*
-[12:33:00] [Server thread/INFO]: [ChestShop] Vault loaded! Found an economy plugin!
-[12:33:00] [Server thread/INFO]: [AutoMessage] Enabling AutoMessage v2.5.5*
-[12:33:00] [Server thread/INFO]: [RotatoR] Enabling RotatoR v1.0.6
-[12:33:01] [Server thread/INFO]: [spark] Starting background profiler...
-[12:33:01] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[12:33:01] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[12:33:01] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[12:33:01] [Server thread/INFO]: [Geyser-Spigot] 
-[12:33:01] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b751 (git-master-5836dab)
-[12:33:01] [Server thread/INFO]: [Geyser-Spigot] 
-[12:33:01] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[12:33:04] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
-[12:33:04] [Server thread/INFO]: [Geyser-Spigot] Done (2.891s)! Run /geyser help for help!
-[12:33:04] [Server thread/INFO]: Done preparing level "world" (14.379s)
-[12:33:04] [Server thread/INFO]: Running delayed init tasks
-[12:33:04] [Craft Scheduler Thread - 7 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[12:33:04] [Craft Scheduler Thread - 11 - InteractiveChat/INFO]: [InteractiveChat] Loading languages...
-[12:33:04] [Server thread/INFO]: [Slimefun] Collecting Snapshots of all Recipes...
-[12:33:04] [Craft Scheduler Thread - 7 - Essentials/INFO]: [Essentials] Fetching version information...
-[12:33:04] [Server thread/INFO]: [Slimefun] Found 1,370 Recipes!
-[12:33:04] [Server thread/INFO]: 
-[12:33:04] [Server thread/INFO]: ######################### - Slimefun vPreview Build - #########################
-[12:33:04] [Server thread/INFO]: 
-[12:33:04] [Server thread/INFO]: Successfully loaded 555 Items and 258 Researches
-[12:33:04] [Server thread/INFO]: ( 555 Items from Slimefun, 0 Items from 2 Addons )
-[12:33:04] [Server thread/INFO]: 
-[12:33:04] [Server thread/INFO]: Slimefun is an Open-Source project that is kept alive by a large community.
-[12:33:04] [Server thread/INFO]: Consider helping us maintain this project by contributing on GitHub!
-[12:33:04] [Server thread/INFO]:  - UNOFFICIALLY MODIFIED BUILD - NO OFFICIAL SUPPORT GIVEN
-[12:33:04] [Server thread/INFO]: 
-[12:33:04] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world"
-[12:33:04] [Server thread/INFO]: [Slimefun] This may take a long time...
-[12:33:04] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
-[12:33:04] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world"
-[12:33:04] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_nether"
-[12:33:04] [Server thread/INFO]: [Slimefun] This may take a long time...
-[12:33:04] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
-[12:33:04] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_nether"
-[12:33:04] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_the_end"
-[12:33:04] [Server thread/INFO]: [Slimefun] This may take a long time...
-[12:33:04] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
-[12:33:05] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_the_end"
-[12:33:05] [Server thread/INFO]: [dough: protection] Loading Protection Modules...
-[12:33:05] [Server thread/INFO]: [dough: protection] This may happen more than once.
-[12:33:05] [Server thread/INFO]: [dough: protection] Loaded Protection Module "Towny v0.100.4.0"
-[12:33:05] [Server thread/INFO]: [dough: protection] Loaded Protection Module "LogBlock"
-[12:33:05] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.2-b107)!
-[12:33:05] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
-[12:33:05] [Server thread/INFO]: Done (39.233s)! For help, type "help"
-[12:33:05] [Server thread/WARN]: [AngelChest] ***************************************************
-[12:33:05] [Server thread/WARN]: [AngelChest] * There is a new version of AngelChest available!
-[12:33:05] [Server thread/WARN]: [AngelChest] *  
-[12:33:05] [Server thread/WARN]: [AngelChest] * Your version:   §c13.6.1
-[12:33:05] [Server thread/WARN]: [AngelChest] * Latest version: §a13.9.0
-[12:33:05] [Server thread/WARN]: [AngelChest] *  
-[12:33:05] [Server thread/WARN]: [AngelChest] * Please update to the newest version.
-[12:33:05] [Server thread/WARN]: [AngelChest] *  
-[12:33:05] [Server thread/WARN]: [AngelChest] * Download (Plus):
-[12:33:05] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/88214
-[12:33:05] [Server thread/WARN]: [AngelChest] *  
-[12:33:05] [Server thread/WARN]: [AngelChest] * Download (Free):
-[12:33:05] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/60383
-[12:33:05] [Server thread/WARN]: [AngelChest] ***************************************************
-[12:33:05] [Craft Scheduler Thread - 5 - BlueSlimeCore/INFO]: [Blue Slime Core]  
-[12:33:05] [Craft Scheduler Thread - 5 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] There are no updates available for plugin 'BlueSlimeCore'.
-[12:33:06] [Craft Scheduler Thread - 11 - InteractiveChat/INFO]: [InteractiveChat] Loaded all 1 languages!
-[12:33:07] [Server thread/INFO]: [AngelChest] ========================================================
-[12:33:07] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
-[12:33:07] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
-[12:33:07] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
-[12:33:07] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
-[12:33:07] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
-[12:33:07] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
-[12:33:07] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
-[12:33:07] [Server thread/INFO]: [AngelChest] 
-[12:33:07] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
-[12:33:07] [Server thread/INFO]: [AngelChest] ========================================================
-[12:33:31] [Server thread/INFO]: --------------------- [ PlugMan ] ---------------------
-[12:33:31] [Server thread/INFO]: - /plugman help - Displays this.
-[12:33:31] [Server thread/INFO]: - /plugman list [-v] - List all plugins (-v shows versions).
-[12:33:31] [Server thread/INFO]: - /plugman dump - Dump plugin names and versions to file.
-[12:33:31] [Server thread/INFO]: - /plugman info <plugin> - Get info on a plugin.
-[12:33:31] [Server thread/INFO]: - /plugman usage <plugin> - List commands a plugin has registered.
-[12:33:31] [Server thread/INFO]: - /plugman lookup <command> - Find the plugin a command is registered to.
-[12:33:31] [Server thread/INFO]: - /plugman enable <plugin|all> - Enable a plugin.
-[12:33:31] [Server thread/INFO]: - /plugman disable <plugin|all> - Disable a plugin.
-[12:33:31] [Server thread/INFO]: - /plugman restart <plugin|all> - Restart a plugin.
-[12:33:31] [Server thread/INFO]: - /plugman load <plugin> - Load a plugin.
-[12:33:31] [Server thread/INFO]: - /plugman reload <plugin|all> - Reload a plugin.
-[12:33:31] [Server thread/INFO]: - /plugman unload <plugin> - Unload a plugin.
-[12:33:31] [Server thread/INFO]: - /plugman check <plugin|all> [-f] - Check if a plugin is up-to-date (-f dumps to file for all).
-[12:33:48] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username CensingSmile123
-[12:33:48] [localSession-7-2/INFO]: [Geyser-Spigot] CensingSmile123 (logged in as: CensingSmile123) has connected to the Java server
-[12:33:49] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CensingSmile123 joined (UUID: 00000000-0000-0000-0009-01f322b1b6b3)
-[12:33:49] [Server thread/INFO]: .CensingSmile123 joined the game
-[12:33:49] [Server thread/INFO]: .CensingSmile123[/127.0.0.1:0] logged in with entity id 26 at ([world]224.4355, 138.65738, -471.0218)
-[12:35:25] [Server thread/INFO]: Server Plugins (28):
-[12:35:25] [Server thread/INFO]: Bukkit Plugins:
-[12:35:25] [Server thread/INFO]:  - AngelChest, *AutoMessage, BlueSlimeCore, *ChestShop, Citizens, Essentials, floodgate, Geyser-Spigot, InteractiveChat, LogBlock
-[12:35:25] [Server thread/INFO]:  *LunaChat, NBTAPI, ntdLuckyBlock, PetShop, PlaceholderAPI, PlugManX, ProtocolLib, *PurpleIRC, *RandomTP, RotatoR
-[12:35:25] [Server thread/INFO]:  Slimefun, Towny, Vault, VeinMiner, ViaBackwards, ViaRewind, ViaVersion, WorldEdit
-[12:37:37] [Server thread/INFO]: .CensingSmile123 issued server command: /pl
-[12:37:54] [Server thread/INFO]: .CensingSmile123 issued server command: /plugman disable automessage
-[12:37:54] [Server thread/INFO]: [AutoMessage] Disabling AutoMessage v2.5.5
-[12:39:18] [Server thread/INFO]: .CensingSmile123 issued server command: /plugman disable chestshop
-[12:39:18] [Server thread/INFO]: [ChestShop] Disabling ChestShop v3.8.13-SNAPSHOT (build #41)
-[12:42:00] [Server thread/INFO]: .CensingSmile123 issued server command: /plugman disable logblock
-[12:42:00] [Server thread/INFO]: [LogBlock] Disabling LogBlock v1.14.1-SNAPSHOT (build #65)
-[12:42:00] [Server thread/INFO]: [LogBlock] Waiting for consumer ...
-[12:44:12] [Server thread/INFO]: .CensingSmile123 issued server command: /plugman disable PurpleIRC
-[12:44:12] [Server thread/INFO]: [PurpleIRC] Disabling PurpleIRC v1.0-352
-[12:44:12] [Server thread/INFO]: [PurpleIRC] No IRC bots to disconnect.
-[12:44:45] [Server thread/INFO]: .CensingSmile123 issued server command: /plugman disable RotatoR
-[12:44:45] [Server thread/INFO]: [RotatoR] Disabling RotatoR v1.0.6
-[12:46:15] [Server thread/INFO]: .CensingSmile123 issued server command: /plugman disable RandomTP
-[12:46:15] [Server thread/INFO]: [RandomTP] Disabling RandomTP v2.3
-[12:47:52] [Server thread/INFO]: .CensingSmile123 issued server command: /plugman disable veinminer
-[12:47:52] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.0.0
-[12:47:52] [Server thread/INFO]: [VeinMiner] Clearing localized data
-[12:48:11] [Server thread/INFO]: .CensingSmile123 issued server command: /pl
-[12:57:22] [Server thread/INFO]: .CensingSmile123 issued server command: /debug
-[13:01:48] [Server thread/INFO]: .CensingSmile123 issued server command: /plugman disable Towny
-[13:01:48] [Server thread/INFO]: [Towny] Disabling Towny v0.100.4.0
-[13:01:48] [Server thread/INFO]: ==============================================================
-[13:01:48] [Server thread/INFO]: [Towny] Finishing File IO Tasks...
-[13:01:48] [Server thread/INFO]: [Towny] Finishing Universe Tasks...
-[13:01:48] [Server thread/INFO]: [Towny] Version: 0.100.4.0 - Plugin Disabled
-[13:01:48] [Server thread/INFO]: =============================================================
+[13:08:32] [Server thread/INFO]: [LunaChat] Enabling LunaChat v3.0.16*
+[13:08:32] [Server thread/INFO]: [NBTAPI] Enabling NBTAPI v2.14.1
+[13:08:32] [Server thread/INFO]: [NBTAPI] Checking bindings...
+[13:08:32] [Server thread/INFO]: [NBTAPI] All Classes were able to link!
+[13:08:32] [Server thread/INFO]: [NBTAPI] All Methods were able to link!
+[13:08:32] [Server thread/INFO]: [NBTAPI] Running NBT reflection test...
+[13:08:32] [Server thread/INFO]: [NBTAPI] Success! This version of NBT-API is compatible with your server.
+[13:08:32] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[13:08:32] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v2.0.0
+[13:08:32] [Server thread/INFO]: [VeinMiner] Using JSON for persistent storage.
+[13:08:32] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[13:08:32] [Server thread/INFO]: [VeinMiner] Unknown or invalid block state string for input: "minecraft:grass". Is it an item?
+[13:08:32] [Server thread/INFO]: [VeinMiner] Added 12 aliases.
+[13:08:32] [Server thread/INFO]: [VeinMiner] Registered category with id "Axe" holding 6 unique items and 25 unique blocks.
+[13:08:32] [Server thread/INFO]: [VeinMiner] Registered category with id "Hoe" holding 6 unique items and 10 unique blocks.
+[13:08:32] [Server thread/INFO]: [VeinMiner] Registered category with id "Pickaxe" holding 6 unique items and 23 unique blocks.
+[13:08:32] [Server thread/INFO]: [VeinMiner] Registered category with id "Shears" holding 1 unique items and 26 unique blocks.
+[13:08:32] [Server thread/INFO]: [VeinMiner] Registered category with id "Shovel" holding 6 unique items and 9 unique blocks.
+[13:08:32] [Server thread/INFO]: [VeinMiner] Registering commands
+[13:08:32] [Server thread/INFO]: [VeinMiner] Registering events
+[13:08:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: veinminer [2.0.0]
+[13:08:32] [Server thread/INFO]: [VeinMiner] Vault found. Attempting to enable economy support...
+[13:08:32] [Server thread/INFO]: [VeinMiner] Economy found! Hooked successfully.
+[13:08:32] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.6.1
+[13:08:32] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[13:08:32] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[13:08:32] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[13:08:32] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[13:08:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: angelchest [GENERIC]
+[13:08:32] [Server thread/INFO]: [AngelChest] Successfully hooked into Vault and the EconomyProvider, enabling economy functions.
+[13:08:32] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[13:08:32] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.6.1 (Premium: false)
+[13:08:33] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.37-SNAPSHOT (build 3703)
+[13:08:33] [Server thread/INFO]: [Citizens] Loaded 0 templates.
+[13:08:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: citizensplaceholder [1.0.0]
+[13:08:33] [Server thread/INFO]: [Citizens] Loaded economy handling via Vault.
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] Enabling ntdLuckyBlock v2.8.28
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] Starting LuckyBlock (ntdLuckyBlock) v2.8.28, build135(21/12/2024), free
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock]   ╭╮╱╱╭╮╱╭┳━━━┳╮╭━┳╮╱╱╭┳━━╮╭╮╱╱╭━━━┳━━━┳╮╭━╮
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock]   ┃┃╱╱┃┃╱┃┃╭━╮┃┃┃╭┫╰╮╭╯┃╭╮┃┃┃╱╱┃╭━╮┃╭━╮┃┃┃╭╯
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock]   ┃┃╱╱┃┃╱┃┃┃╱╰┫╰╯╯╰╮╰╯╭┫╰╯╰┫┃╱╱┃┃╱┃┃┃╱╰┫╰╯╯
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock]   ┃┃╱╭┫┃╱┃┃┃╱╭┫╭╮┃╱╰╮╭╯┃╭━╮┃┃╱╭┫┃╱┃┃┃╱╭┫╭╮┃
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock]   ┃╰━╯┃╰━╯┃╰━╯┃┃┃╰╮╱┃┃╱┃╰━╯┃╰━╯┃╰━╯┃╰━╯┃┃┃╰╮
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock]   ╰━━━┻━━━┻━━━┻╯╰━╯╱╰╯╱╰━━━┻━━━┻━━━┻━━━┻╯╰━╯ NTD
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock]           Made with love by DenBeKKer
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] 
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] =-= SUPPORT § BUG REPORTING § FEATURE REQUESTING =-=
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock]  > Discord - https://discord.gg/vbYW3sperj
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock]  > Vkontakte - https://vk.com/danirodplay (Rus)
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] =-= SUPPORT § BUG REPORTING § FEATURE REQUESTING =-=
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] Loaded main material version
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] Loading NMS for your platform (1.21.4-DEV-e9ce664 (MC: 1.21.4), v1_21_R3)...
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] Loading language file "en" by DenBeKKer
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] Vault connected
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] WorldEdit connected
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] SlimeFun connected
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] TokenManager not found
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] WorldGuard not found
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] Found 3/5 compatible plugins
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] Loading system...
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] Loaded 11 internal custom items...
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] Loaded 11 custom items... (Total)
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] Loaded 16 luckyblock types...
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] System loaded (took 77 ms)...
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] If you love my plugin, support me with 5 stars review(https://www.spigotmc.org/resources/92026/) or consider to purchase premium plugin version (https://www.spigotmc.org/resources/94872/)
+[13:08:33] [Server thread/INFO]: [ntdLuckyBlock] Enabled (took 141 ms)... 
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Enabling PurpleIRC v1.0-352*
+[13:08:33] [Server thread/INFO]: [PurpleIRC] MC version detected: 1.21.4-DEV-e9ce664 (MC: 1.21.4)
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Registering GamePlayerPlayerAdvancementDoneListener because version >= 1.12
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Detecting plugin hooks...
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: Herochat
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: GriefPrevention
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: TitanChat
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: VentureChat
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: Prism
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: RedditStream
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: TownyChat
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: CleverNotch
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: mcMMO
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: FactionChat
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: AdminPrivateChat
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: CommandBook
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: Jobs
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: DeathMessages
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: DeathMessagesPrime
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: Shortify
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: dynmap
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: OreBroadcast
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: VanishNoPacket
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: SuperVanish
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: SuperVanish
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: ReportRTS
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: SimpleTicketManager
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: NTheEndAgain
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook enabled: Essentials
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook enabled: PlaceholderAPI
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: DiscordSRV
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hook NOT enabled: UltimateChat
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Checking for bot files in plugins/PurpleIRC/bots
+[13:08:33] [Server thread/INFO]: [PurpleIRC] Hooked into Vault v1.7.2-b107
+[13:08:33] [Server thread/INFO]: [InteractiveChat] Enabling InteractiveChat v4.2.16.0
+[13:08:33] [Server thread/INFO]: [InteractiveChat] Opened Sqlite database successfully
+[13:08:34] [Server thread/INFO]: [InteractiveChat] InteractiveChat has hooked into Essentials!
+[13:08:34] [Server thread/INFO]: [InteractiveChat] InteractiveChat has hooked into ViaVersion!
+[13:08:34] [Server thread/INFO]: [InteractiveChat] InteractiveChat has hooked into Floodgate!
+[13:08:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: interactivechat [4.2.16.0]
+[13:08:34] [Server thread/INFO]: [InteractiveChat] InteractiveChat has been Enabled!
+[13:08:34] [Server thread/INFO]: [RandomTP] Enabling RandomTP v2.3*
+[13:08:34] [Server thread/INFO]: [RandomTP] Checking/Fixing format of portals.yml
+[13:08:34] [Server thread/INFO]: [ChestShop] Enabling ChestShop v3.8.13-SNAPSHOT (build #41)*
+[13:08:34] [Server thread/INFO]: [ChestShop] Vault loaded! Found an economy plugin!
+[13:08:34] [Server thread/INFO]: [AutoMessage] Enabling AutoMessage v2.5.5*
+[13:08:34] [Server thread/INFO]: [RotatoR] Enabling RotatoR v1.0.6
+[13:08:34] [Server thread/INFO]: [spark] Starting background profiler...
+[13:08:35] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[13:08:35] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[13:08:35] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[13:08:35] [Server thread/INFO]: [Geyser-Spigot] 
+[13:08:35] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b751 (git-master-5836dab)
+[13:08:35] [Server thread/INFO]: [Geyser-Spigot] 
+[13:08:35] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[13:08:38] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
+[13:08:38] [Server thread/INFO]: [Geyser-Spigot] Done (2.958s)! Run /geyser help for help!
+[13:08:38] [Server thread/INFO]: Done preparing level "world" (13.866s)
+[13:08:38] [Server thread/INFO]: Running delayed init tasks
+[13:08:38] [Craft Scheduler Thread - 0 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[13:08:38] [Craft Scheduler Thread - 7 - InteractiveChat/INFO]: [InteractiveChat] Loading languages...
+[13:08:38] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
+[13:08:38] [Server thread/INFO]: [Slimefun] Collecting Snapshots of all Recipes...
+[13:08:38] [Server thread/INFO]: [Slimefun] Found 1,370 Recipes!
+[13:08:38] [Server thread/INFO]: 
+[13:08:38] [Server thread/INFO]: ######################### - Slimefun vPreview Build - #########################
+[13:08:38] [Server thread/INFO]: 
+[13:08:38] [Server thread/INFO]: Successfully loaded 555 Items and 258 Researches
+[13:08:38] [Server thread/INFO]: ( 555 Items from Slimefun, 0 Items from 2 Addons )
+[13:08:38] [Server thread/INFO]: 
+[13:08:38] [Server thread/INFO]: Slimefun is an Open-Source project that is kept alive by a large community.
+[13:08:38] [Server thread/INFO]: Consider helping us maintain this project by contributing on GitHub!
+[13:08:38] [Server thread/INFO]:  - UNOFFICIALLY MODIFIED BUILD - NO OFFICIAL SUPPORT GIVEN
+[13:08:38] [Server thread/INFO]: 
+[13:08:38] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world"
+[13:08:38] [Server thread/INFO]: [Slimefun] This may take a long time...
+[13:08:38] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[13:08:38] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world"
+[13:08:38] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_nether"
+[13:08:38] [Server thread/INFO]: [Slimefun] This may take a long time...
+[13:08:38] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[13:08:38] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_nether"
+[13:08:38] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_the_end"
+[13:08:38] [Server thread/INFO]: [Slimefun] This may take a long time...
+[13:08:38] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[13:08:38] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_the_end"
+[13:08:38] [Server thread/INFO]: [dough: protection] Loading Protection Modules...
+[13:08:38] [Server thread/INFO]: [dough: protection] This may happen more than once.
+[13:08:38] [Server thread/INFO]: [dough: protection] Loaded Protection Module "LogBlock"
+[13:08:38] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.2-b107)!
+[13:08:38] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
+[13:08:38] [Server thread/INFO]: Done (37.908s)! For help, type "help"
+[13:08:38] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core]  
+[13:08:38] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] There are no updates available for plugin 'BlueSlimeCore'.
+[13:08:39] [Server thread/WARN]: [AngelChest] ***************************************************
+[13:08:39] [Server thread/WARN]: [AngelChest] * There is a new version of AngelChest available!
+[13:08:39] [Server thread/WARN]: [AngelChest] *  
+[13:08:39] [Server thread/WARN]: [AngelChest] * Your version:   §c13.6.1
+[13:08:39] [Server thread/WARN]: [AngelChest] * Latest version: §a13.9.0
+[13:08:39] [Server thread/WARN]: [AngelChest] *  
+[13:08:39] [Server thread/WARN]: [AngelChest] * Please update to the newest version.
+[13:08:39] [Server thread/WARN]: [AngelChest] *  
+[13:08:39] [Server thread/WARN]: [AngelChest] * Download (Plus):
+[13:08:39] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/88214
+[13:08:39] [Server thread/WARN]: [AngelChest] *  
+[13:08:39] [Server thread/WARN]: [AngelChest] * Download (Free):
+[13:08:39] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/60383
+[13:08:39] [Server thread/WARN]: [AngelChest] ***************************************************
+[13:08:40] [Craft Scheduler Thread - 10 - InteractiveChat/INFO]: [InteractiveChat] Loaded all 1 languages!
+[13:08:41] [Server thread/INFO]: [AngelChest] ========================================================
+[13:08:41] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[13:08:41] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[13:08:41] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[13:08:41] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[13:08:41] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[13:08:41] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[13:08:41] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[13:08:41] [Server thread/INFO]: [AngelChest] 
+[13:08:41] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[13:08:41] [Server thread/INFO]: [AngelChest] ========================================================

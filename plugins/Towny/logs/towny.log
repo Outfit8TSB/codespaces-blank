@@ -26,3 +26,79 @@
 26 Jan 2025 13:01:48 [Server thread]: Finishing File IO Tasks...
 26 Jan 2025 13:01:48 [Server thread]: Finishing Universe Tasks...
 26 Jan 2025 13:01:48 [Server thread]: Version: 0.100.4.0 - Plugin Disabled
+26 Jan 2025 13:06:56 [Server thread]: Enabling Towny v0.100.4.0
+26 Jan 2025 13:06:56 [Server thread]: Loading error: Failed to load file plugins/Towny/settings/config.yml (does it pass a yaml parser?).
+26 Jan 2025 13:06:56 [Server thread]: https://jsonformatter.org/yaml-parser
+26 Jan 2025 13:06:56 [Server thread]: while parsing a block mapping
+ in 'reader', line 469, column 5:
+        block_delete:
+        ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 530, column 7:
+          enabled: 'false'
+          ^
+
+26 Jan 2025 13:06:56 [Server thread]: Loading error: Failed to load file plugins/Towny/settings/config.yml (does it pass a yaml parser?).
+26 Jan 2025 13:06:56 [Server thread]: https://jsonformatter.org/yaml-parser
+26 Jan 2025 13:06:56 [Server thread]: while parsing a block mapping
+ in 'reader', line 469, column 5:
+        block_delete:
+        ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 530, column 7:
+          enabled: 'false'
+          ^
+
+26 Jan 2025 13:06:56 [Server thread]: Unable to migrate old database settings to Towny\data\settings\database.yml
+com.palmergames.bukkit.towny.exceptions.initialization.TownyInitException: Unable to migrate old database settings to Towny\data\settings\database.yml
+	at Towny-0.100.4.0.jar/com.palmergames.bukkit.towny.Towny.loadDatabaseConfig(Towny.java:286) ~[?:?]
+	at Towny-0.100.4.0.jar/com.palmergames.bukkit.towny.Towny.loadFoundation(Towny.java:223) ~[?:?]
+	at Towny-0.100.4.0.jar/com.palmergames.bukkit.towny.Towny.onEnable(Towny.java:137) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[NogyangSpigot-API-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[NogyangSpigot-API-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at PlugManX-2.4.1.jar/com.rylinaux.plugman.pluginmanager.BukkitPluginManager.enable(BukkitPluginManager.java:85) ~[?:?]
+	at PlugManX-2.4.1.jar/com.rylinaux.plugman.pluginmanager.PaperPluginManager.enable(PaperPluginManager.java:139) ~[?:?]
+	at PlugManX-2.4.1.jar/com.rylinaux.plugman.command.EnableCommand.execute(EnableCommand.java:130) ~[?:?]
+	at PlugManX-2.4.1.jar/com.rylinaux.plugman.PlugManCommandHandler.onCommand(PlugManCommandHandler.java:94) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[NogyangSpigot-API-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.a(ExecuteCommand.java:31) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.commands.execution.UnboundEntryAction.a(UnboundEntryAction.java:8) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.commands.execution.CommandQueueEntry.a(CommandQueueEntry.java:5) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.commands.execution.ExecutionContext.a(ExecutionContext.java:103) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.commands.CommandDispatcher.a(CommandDispatcher.java:448) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.commands.CommandDispatcher.performCommand(CommandDispatcher.java:355) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.commands.CommandDispatcher.performCommand(CommandDispatcher.java:342) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.commands.CommandDispatcher.a(CommandDispatcher.java:337) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:2362) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.network.PlayerConnection.lambda$handleSignedChatCommand$12(PlayerConnection.java:2316) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(IAsyncTaskHandler.java:154) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(IAsyncTaskHandlerReentrant.java:24) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1579) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:207) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.util.thread.IAsyncTaskHandler.B(IAsyncTaskHandler.java:128) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.MinecraftServer.bv(MinecraftServer.java:1556) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.MinecraftServer.B(MinecraftServer.java:1549) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.util.thread.IAsyncTaskHandler.b(IAsyncTaskHandler.java:138) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1500) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.MinecraftServer.x_(MinecraftServer.java:1510) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1346) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341) ~[nogyangspigotcraftbukkit-1.21.4.jar:1.21.4-DEV-e9ce664]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+26 Jan 2025 13:06:56 [Server thread]: Searching for third-party plugins...
+26 Jan 2025 13:06:56 [Server thread]: Plugins found: 
+26 Jan 2025 13:06:56 [Server thread]:   Permissions: TownyPerms, BukkitPermissions
+26 Jan 2025 13:06:56 [Server thread]:   Economy: EssentialsX Economy via Vault
+26 Jan 2025 13:06:56 [Server thread]:   Add-ons: PlaceholderAPI v2.11.6
+26 Jan 2025 13:06:56 [Server thread]:   Warning: EssentialsX Economy has been known to reset
+                           town and nation bank accounts on rare occasions.
+26 Jan 2025 13:06:56 [Server thread]: [WARNING] - ***** SAFE MODE ***** 0.100.4.0
+26 Jan 2025 13:07:57 [Server thread]: Disabling Towny v0.100.4.0
+26 Jan 2025 13:07:57 [Server thread]: Finishing File IO Tasks...
+26 Jan 2025 13:07:57 [Server thread]: Finishing Universe Tasks...
+26 Jan 2025 13:07:57 [Server thread]: Version: 0.100.4.0 - Plugin Disabled
