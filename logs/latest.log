@@ -617,3 +617,7 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [14:08:05] [Server thread/INFO]: Villager EntityVillager['Villagers654'/1560, uuid='1a83fddc-2048-4eae-8f96-d6fe1062c19a', l='ServerLevel[world]', x=52.15, y=89.00, z=-483.15, cpos=[3, -31], tl=3098, v=true] died, message: 'Villagers654 was blown up by .CensingSmile123'
 [14:08:05] [Server thread/INFO]: Named entity EntityVillager['Villagers654'/1560, uuid='1a83fddc-2048-4eae-8f96-d6fe1062c19a', l='ServerLevel[world]', x=52.15, y=89.00, z=-483.15, cpos=[3, -31], tl=3098, v=true] died: Villagers654 was blown up by .CensingSmile123
 [14:13:57] [Server thread/INFO]: .CensingSmile123 issued server command: //pyramid tnt 10
+[14:17:56] [Server thread/INFO]: .CensingSmile123 issued server command: /townyworld toggle revertentityexpl
+[14:18:04] [Server thread/INFO]: .CensingSmile123 issued server command: /townyworld toggle revertentityexpl
+[14:18:06] [Server thread/INFO]: .CensingSmile123 issued server command: /townyworld toggle revertentityexpl
+[14:18:10] [Server thread/INFO]: .CensingSmile123 issued server command: /townyworld toggle revertblockexpl

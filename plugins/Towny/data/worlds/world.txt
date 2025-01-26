@@ -47,11 +47,11 @@ revertOnUnclaimWhitelistMaterials=
 
 # The following settings control which entities/blocks' explosions are reverted in the wilderness.
 # If enabled any damage caused by entity explosions will repair itself.
-usingPlotManagementWildRegen=true
+usingPlotManagementWildRegen=false
 # The list of entities whose explosions would be reverted.
 PlotManagementWildRegenEntities=ender_dragon,wither_skull,end_crystal,tnt_minecart,tnt,wither,creeper,fireball,small_fireball
 # If enabled any damage caused by block explosions will repair itself.
-usingPlotManagementWildRegenBlocks=true
+usingPlotManagementWildRegenBlocks=false
 # The list of blocks whose explosions would be reverted.
 PlotManagementWildRegenBlocks=RESPAWN_ANCHOR,WHITE_BED,MAGENTA_BED,PURPLE_BED,CYAN_BED,BLUE_BED,RED_BED,BLACK_BED,GREEN_BED,ORANGE_BED,LIGHT_GRAY_BED,YELLOW_BED,GRAY_BED,PINK_BED,LIME_BED,LIGHT_BLUE_BED,BROWN_BED
 # The list of blocks to regenerate. (if empty all blocks will regenerate)
