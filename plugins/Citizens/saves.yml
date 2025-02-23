@@ -1,6 +1,6 @@
 # Citizens NPC Storage
 
-last-created-npc-id: 3
+last-created-npc-id: 4
 npc:
   '2':
     metadata:
@@ -45,9 +45,9 @@ npc:
       location:
         bodyYaw: 177.11847
         world: world
-        x: -1072.4636
-        y: 70.0
-        z: 126.2572
+        x: -1072.3
+        y: 61.4371
+        z: 129.3
         yaw: 177.1185
         pitch: 7.787
       skintrait:
@@ -59,16 +59,44 @@ npc:
         tags:
           '0': CITIZENS_NPC
       type: PLAYER
-      inventory:
-        '22':
-          type: grass_block
-          amount: 1
-          displayname: Vanilla Minecraft Server(net.minecraft.server)
-          meta: rO0ABXNyABpvcmcuYnVra2l0LnV0aWwuaW8uV3JhcHBlcvJQR+zxEm8FAgABTAADbWFwdAAPTGphdmEvdXRpbC9NYXA7eHBzcgA1Y29tLmdvb2dsZS5jb21tb24uY29sbGVjdC5JbW11dGFibGVNYXAkU2VyaWFsaXplZEZvcm0AAAAAAAAAAAIAAkwABGtleXN0ABJMamF2YS9sYW5nL09iamVjdDtMAAZ2YWx1ZXNxAH4ABHhwdXIAE1tMamF2YS5sYW5nLk9iamVjdDuQzlifEHMpbAIAAHhwAAAAA3QAAj09dAAJbWV0YS10eXBldAAMZGlzcGxheS1uYW1ldXEAfgAGAAAAA3QACEl0ZW1NZXRhdAAKVU5TUEVDSUZJQ3QAnHsidGV4dCI6IiIsImV4dHJhIjpbIlZhbmlsbGEgTWluZWNyYWZ0IFNlcnZlcigiLHsidGV4dCI6Im5ldC5taW5lY3JhZnQuc2VydmVyKSIsImNsaWNrRXZlbnQiOnsiYWN0aW9uIjoib3Blbl91cmwiLCJ2YWx1ZSI6Imh0dHA6Ly9uZXQubWluZWNyYWZ0LnNlcnZlcikifX1dfQ==
+      inventory: {}
       owner:
         uuid: 00000000-0000-0000-0009-01f322b1b6b3
       spawned: true
     traitnames: scoreboardtrait,owner,spawned,skintrait,equipment,location,type,inventory
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false
+  '4':
+    metadata:
+      cached-skin-uuid: af74a02d-19cb-445b-b07f-6866a861f783
+      cached-skin-uuid-name: md_5
+      protected: false
+    name: md_5
+    uuid: 2263b51d-7adc-4870-aa6e-a673b0e14a8b
+    traits:
+      location:
+        bodyYaw: 59.79309
+        world: world
+        x: -1061.8414
+        y: 63.0
+        z: 82.3718
+        yaw: 59.7931
+        pitch: 50.8749
+      skintrait:
+        fetchDefaultSkin: true
+        signature: QXE0SlNlFklg7a35ESa6D83Kde98iOktHREw8WM7sK28ZjZtAD9Z7ELu8R1JCKnatMNkuMo9EX+AXyWlcEBj/DTVfOTbm4sVEokTIejrGpIaT5m2s/ki19UKm6ml8Yu3ZxTzPSPbYAr7xe5Hri5/RRhC8zQQxtexur/DX1RgDPsypXFG8jBCCY4OhP/ACbUKv5R65HX2YHhexaYkFBOzAVFH7I1HiUbfnYArkVXFjs1cKVxWALr06i2pHk/Sjv6PaM4z39VvGPjRWw5IwDas2YFSFJgocO2k9kHk1knV9rz1MfOvEhuqTGs248v2HpZrRlMuOYgPGav30M8cnUjcYss3fpvyIm80B7ji45xDxrA8oFACssl0W4n9p4C125RZ/TI9F+HEQ9OKyXfhTQ7hCDBioYqxrSXy+9fLEvlxqA5BZK/OaNpGjZS/GhAri1K6bR26ZXH0WK24wDVVugRv9vTtK9LGEm6jDrRcBwt2ov2rdx+o8qOep9L9FEQNpaffDyghKu0HpRmzCtxGk+wex0VG6sEUmnbWHAILrj5fT+YMXe5yU2gN+tFn2coQSW2c8rEioUgc/ViEwkzPHdoqk/w2xPVV+qrtyzmXk1vwm0OaqEGUnqwRGy6SKNHcV8tzwS4c+SmVWaATJPlMs3sqR7wUvIQm5AeIrjBJo/DUwio=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc0MDMyNjQzMjQ1NywKICAicHJvZmlsZUlkIiA6ICJhZjc0YTAyZDE5Y2I0NDViYjA3ZjY4NjZhODYxZjc4MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJtZF81IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U0NmNlZmQ3NmMzMTBhODQwNjU2MTE3ODU5ODhlNWMzYmU3MGQzNGE0NDlmZDI0Y2EyZTMwY2JjYjU3MzZjYjYiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U3ZGZlYTE2ZGM4M2M5N2RmMDFhMTJmYWJiZDEyMTYzNTljMGNkMGVhNDJmOTk5OWI2ZTk3YzU4NDk2M2U5ODAiCiAgICB9CiAgfQp9
+        updateSkins: false
+      scoreboardtrait:
+        tags:
+          '0': CITIZENS_NPC
+      type: PLAYER
+      owner:
+        uuid: 00000000-0000-0000-0009-01f322b1b6b3
+      spawned: true
+    traitnames: scoreboardtrait,owner,spawned,skintrait,equipment,location,type,inventory,targetable
     navigator:
       speedmodifier: 1.0
       avoidwater: false
