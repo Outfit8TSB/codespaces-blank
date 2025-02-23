@@ -1603,3 +1603,6 @@ Caused by: java.lang.ClassNotFoundException: de.diddiz.LogBlock.util.LoggingUtil
 [16:34:12] [Server thread/INFO]: .CensingSmile123 issued server command: /npc vulnerable
 [16:34:18] [Server thread/INFO]: .CensingSmile123 issued server command: /inventory
 [16:34:23] [Server thread/INFO]: .CensingSmile123 issued server command: /npc inventory
+[16:36:47] [Server thread/INFO]: .CensingSmile123 issued server command: /npc select notch
+[16:36:54] [Server thread/INFO]: .CensingSmile123 issued server command: /npc inventory
+[16:37:36] [Server thread/INFO]: .CensingSmile123 issued server command: /itemname NMS Obfuscated
