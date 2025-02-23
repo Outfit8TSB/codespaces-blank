@@ -1681,3 +1681,5 @@ java.lang.NoClassDefFoundError: de/diddiz/LogBlock/util/LoggingUtil
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 Caused by: java.lang.ClassNotFoundException: de.diddiz.LogBlock.util.LoggingUtil
 	... 32 more
+[16:43:56] [Craft Scheduler Thread - 206 - Slimefun/INFO]: [Slimefun] Auto-saving block data... (Next auto-save: 10m)
+[16:43:56] [Craft Scheduler Thread - 206 - Slimefun/INFO]: [Slimefun] Saving block data for world "world" (1 change(s) queued)
