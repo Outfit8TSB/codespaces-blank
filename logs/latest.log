@@ -1020,3 +1020,9 @@ Caused by: java.lang.ClassNotFoundException: de.diddiz.LogBlock.util.LoggingUtil
 [16:08:42] [Server thread/INFO]: .CensingSmile123 issued server command: /npc md_5
 [16:08:45] [Server thread/INFO]: .CensingSmile123 issued server command: /npc
 [16:09:18] [Server thread/INFO]: .CensingSmile123 issued server command: /npc respawn 1
+[16:09:33] [Server thread/INFO]: .CensingSmile123 issued server command: /npc delete
+[16:09:37] [Server thread/INFO]: .CensingSmile123 issued server command: /npc remove
+[16:11:20] [Server thread/INFO]: .CensingSmile123 issued server command: /npc ㅊㄱㄷㅁㅅㄷ ㅡㅇ_5
+[16:11:26] [Server thread/INFO]: .CensingSmile123 issued server command: /npc create md_5
+[16:11:30] [Server thread/INFO]: .CensingSmile123 issued server command: /npc remove
+[16:11:43] [Server thread/INFO]: .CensingSmile123 issued server command: /npc create md_5
