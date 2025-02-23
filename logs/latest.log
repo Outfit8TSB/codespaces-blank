@@ -1692,3 +1692,7 @@ Caused by: java.lang.ClassNotFoundException: de.diddiz.LogBlock.util.LoggingUtil
 [16:52:32] [Server thread/INFO]: .CensingSmile123 issued server command: /npc select
 [16:52:35] [Server thread/INFO]: md_5 was slain by .CensingSmile123
 [16:52:38] [Server thread/INFO]: .CensingSmile123 issued server command: /npc inventory
+[16:53:13] [Server thread/INFO]: .CensingSmile123 issued server command: /setblock ~ ~ ~ glowstone
+[16:53:13] [Server thread/INFO]: [.CensingSmile123: Changed the block at -1072, 74, 101]
+[16:54:11] [Server thread/INFO]: .CensingSmile123 issued server command: /itemname craftbukkit
+[16:55:20] [Server thread/INFO]: .CensingSmile123 issued server command: /itemname PaperMC Jar
