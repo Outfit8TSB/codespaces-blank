@@ -1465,3 +1465,8 @@ Caused by: java.lang.ClassNotFoundException: de.diddiz.LogBlock.util.LoggingUtil
 [16:14:17] [Server thread/INFO]: .CensingSmile123 issued server command: /itemrename CraftBukkit
 [16:15:20] [Server thread/INFO]: .CensingSmile123 issued server command: /npc Notch
 [16:15:25] [Server thread/INFO]: .CensingSmile123 issued server command: /npc create Notch
+[16:16:10] [Server thread/INFO]: .CensingSmile123 issued server command: /itemrename Spigot
+[16:16:57] [Server thread/INFO]: .CensingSmile123 issued server command: /npc vulnerable
+[16:17:02] [Server thread/INFO]: .CensingSmile123 issued server command: /npc item
+[16:17:12] [Server thread/INFO]: .CensingSmile123 issued server command: /npc inventory
+[16:18:42] [Server thread/INFO]: .CensingSmile123 issued server command: /itemrename net.minecraft.server
