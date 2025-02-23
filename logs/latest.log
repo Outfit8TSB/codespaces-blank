@@ -568,3 +568,12 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 [13:22:19] [Server thread/INFO]: [AngelChest] ========================================================
 [13:22:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
 apt apt<--[HERE]
+[13:38:46] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username CensingSmile123
+[13:38:46] [localSession-7-2/INFO]: [Geyser-Spigot] CensingSmile123 (logged in as: CensingSmile123) has connected to the Java server
+[13:38:46] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CensingSmile123 joined (UUID: 00000000-0000-0000-0009-01f322b1b6b3)
+[13:38:47] [Server thread/INFO]: .CensingSmile123 joined the game
+[13:38:47] [Server thread/INFO]: .CensingSmile123[/127.0.0.1:0] logged in with entity id 25 at ([world]406.7135, 74.79637, 375.27234)
+[13:39:17] [Craft Scheduler Thread - 28 - InteractiveChat/INFO]: [Not Secure] .CensingSmile123: testing
+[13:39:22] [Server thread/INFO]: .CensingSmile123 issued server command: /chc
+[13:39:26] [Server thread/INFO]: .CensingSmile123 issued server command: /chatcontrol
+[13:39:29] [Server thread/INFO]: .CensingSmile123 issued server command: /pl
