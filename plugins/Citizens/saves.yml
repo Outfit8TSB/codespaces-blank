@@ -1,3 +1,75 @@
 # Citizens NPC Storage
 
-{}
+last-created-npc-id: 3
+npc:
+  '2':
+    metadata:
+      cached-skin-uuid: af74a02d-19cb-445b-b07f-6866a861f783
+      cached-skin-uuid-name: md_5
+    name: md_5
+    uuid: 103c566f-1db0-4597-859e-b6f75aaf936f
+    traits:
+      location:
+        bodyYaw: -5.1524353
+        world: world
+        x: -1036.6863
+        y: 65.0
+        z: 80.7252
+        yaw: -5.1524
+        pitch: 0.6717
+      skintrait:
+        fetchDefaultSkin: true
+        signature: QXE0SlNlFklg7a35ESa6D83Kde98iOktHREw8WM7sK28ZjZtAD9Z7ELu8R1JCKnatMNkuMo9EX+AXyWlcEBj/DTVfOTbm4sVEokTIejrGpIaT5m2s/ki19UKm6ml8Yu3ZxTzPSPbYAr7xe5Hri5/RRhC8zQQxtexur/DX1RgDPsypXFG8jBCCY4OhP/ACbUKv5R65HX2YHhexaYkFBOzAVFH7I1HiUbfnYArkVXFjs1cKVxWALr06i2pHk/Sjv6PaM4z39VvGPjRWw5IwDas2YFSFJgocO2k9kHk1knV9rz1MfOvEhuqTGs248v2HpZrRlMuOYgPGav30M8cnUjcYss3fpvyIm80B7ji45xDxrA8oFACssl0W4n9p4C125RZ/TI9F+HEQ9OKyXfhTQ7hCDBioYqxrSXy+9fLEvlxqA5BZK/OaNpGjZS/GhAri1K6bR26ZXH0WK24wDVVugRv9vTtK9LGEm6jDrRcBwt2ov2rdx+o8qOep9L9FEQNpaffDyghKu0HpRmzCtxGk+wex0VG6sEUmnbWHAILrj5fT+YMXe5yU2gN+tFn2coQSW2c8rEioUgc/ViEwkzPHdoqk/w2xPVV+qrtyzmXk1vwm0OaqEGUnqwRGy6SKNHcV8tzwS4c+SmVWaATJPlMs3sqR7wUvIQm5AeIrjBJo/DUwio=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc0MDMyNjQzMjQ1NywKICAicHJvZmlsZUlkIiA6ICJhZjc0YTAyZDE5Y2I0NDViYjA3ZjY4NjZhODYxZjc4MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJtZF81IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U0NmNlZmQ3NmMzMTBhODQwNjU2MTE3ODU5ODhlNWMzYmU3MGQzNGE0NDlmZDI0Y2EyZTMwY2JjYjU3MzZjYjYiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U3ZGZlYTE2ZGM4M2M5N2RmMDFhMTJmYWJiZDEyMTYzNTljMGNkMGVhNDJmOTk5OWI2ZTk3YzU4NDk2M2U5ODAiCiAgICB9CiAgfQp9
+        updateSkins: false
+      scoreboardtrait:
+        tags:
+          '0': CITIZENS_NPC
+      type: PLAYER
+      owner:
+        uuid: 00000000-0000-0000-0009-01f322b1b6b3
+      spawned: true
+    traitnames: scoreboardtrait,owner,spawned,skintrait,location,type,inventory,targetable
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false
+  '3':
+    metadata:
+      cached-skin-uuid: 069a79f4-44e9-4726-a5be-fca90e38aaf5
+      cached-skin-uuid-name: notch
+      protected: false
+    name: Notch
+    uuid: a5d5ec32-e4d7-419c-92e4-a94c51cb79d7
+    traits:
+      location:
+        bodyYaw: 177.11847
+        world: world
+        x: -1072.4636
+        y: 70.0
+        z: 126.2572
+        yaw: 177.1185
+        pitch: 7.787
+      skintrait:
+        fetchDefaultSkin: true
+        signature: DFY9Ukr4IlASTJutU1k4oJ57CdDD3GccUPI1cQAFLNpkV6KdxRzv0cer/nQdO6b1pVh3HIlhS1zuWchFi8ctRWayKLD+Fcc+a8PuZhNNK6XofAb3JN+0nqqjdvA0ps9ebPvjMGzvCAjWZQtZ84sczx63HuojvzZ3KkkLw6pC6Q4WklHFbK7abWSYQYf+H1ptA31Q5s4yS40pRuDiWAmb+YsHfoJbXcJCgx4DqN+YKY9kBlNOefjowENNSI+l6A0B1tCMRUz7B/waPv00Nyff/Pf0O5GWMk+uka/ipsljTWhUtpCRw/X33UMUkAiQ6YZERK8aVy2kwmW/PDzKQQHX/YdgkUv/HLoqnK6yfIVH3r/iSr9MxYSjxDmBKKGPrPtbtm6cDMKrJQPFcFjwGyy9l5SijY2f1ORCXiq3Gy/sEpQo2z6Z3d9w34JILaIjhn1zpVyl5kMrNNGEKLK7C/nlD0x+XB7rvoqJd07Bt6tOGo+DVJGD8Oyzut4+vbs7TnJXwC6Ublr3KBomPAK9mrrQ7s3IzEzNmhxnX0rEksyAK5bfPLOm0PUIQFftUQA0R4NyTFheaYBYgFTr5AvRKPPImROojRRI7JgO615L4Gl6KzyxrxvX82A8eiLnTl0z2P3au40t1NGKn0bGeLY6rOeuZ2SFKg79T2vkqVFAe0Qogko=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc0MDMyNzMyNzQ1MywKICAicHJvZmlsZUlkIiA6ICIwNjlhNzlmNDQ0ZTk0NzI2YTViZWZjYTkwZTM4YWFmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3RjaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yOTIwMDlhNDkyNWI1OGYwMmM3N2RhZGMzZWNlZjA3ZWE0Yzc0NzJmNjRlMGZkYzMyY2U1NTIyNDg5MzYyNjgwIgogICAgfQogIH0KfQ==
+        updateSkins: false
+      scoreboardtrait:
+        tags:
+          '0': CITIZENS_NPC
+      type: PLAYER
+      inventory:
+        '22':
+          type: grass_block
+          amount: 1
+          displayname: Vanilla Minecraft Server(net.minecraft.server)
+          meta: rO0ABXNyABpvcmcuYnVra2l0LnV0aWwuaW8uV3JhcHBlcvJQR+zxEm8FAgABTAADbWFwdAAPTGphdmEvdXRpbC9NYXA7eHBzcgA1Y29tLmdvb2dsZS5jb21tb24uY29sbGVjdC5JbW11dGFibGVNYXAkU2VyaWFsaXplZEZvcm0AAAAAAAAAAAIAAkwABGtleXN0ABJMamF2YS9sYW5nL09iamVjdDtMAAZ2YWx1ZXNxAH4ABHhwdXIAE1tMamF2YS5sYW5nLk9iamVjdDuQzlifEHMpbAIAAHhwAAAAA3QAAj09dAAJbWV0YS10eXBldAAMZGlzcGxheS1uYW1ldXEAfgAGAAAAA3QACEl0ZW1NZXRhdAAKVU5TUEVDSUZJQ3QAnHsidGV4dCI6IiIsImV4dHJhIjpbIlZhbmlsbGEgTWluZWNyYWZ0IFNlcnZlcigiLHsidGV4dCI6Im5ldC5taW5lY3JhZnQuc2VydmVyKSIsImNsaWNrRXZlbnQiOnsiYWN0aW9uIjoib3Blbl91cmwiLCJ2YWx1ZSI6Imh0dHA6Ly9uZXQubWluZWNyYWZ0LnNlcnZlcikifX1dfQ==
+      owner:
+        uuid: 00000000-0000-0000-0009-01f322b1b6b3
+      spawned: true
+    traitnames: scoreboardtrait,owner,spawned,skintrait,equipment,location,type,inventory
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false

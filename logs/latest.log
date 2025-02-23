@@ -1510,3 +1510,10 @@ Caused by: java.lang.ClassNotFoundException: de.diddiz.LogBlock.util.LoggingUtil
 	... 32 more
 [16:20:11] [Server thread/INFO]: .CensingSmile123 issued server command: /itemrename &cR&6a&ei&an&bb&9o&dw &fAPI
 [16:20:45] [Server thread/INFO]: .CensingSmile123 issued server command: /npc inventory
+[16:22:29] [Server thread/INFO]: .CensingSmile123 issued server command: /itemname NMS-Original
+[16:22:40] [Server thread/INFO]: .CensingSmile123 issued server command: /itemname NMS-deobf
+[16:23:04] [Server thread/INFO]: .CensingSmile123 issued server command: /itemname Bukkit
+[16:23:25] [Server thread/INFO]: .CensingSmile123 issued server command: /itemname SpongeAPI
+[16:23:56] [Craft Scheduler Thread - 181 - Slimefun/INFO]: [Slimefun] Auto-saving block data... (Next auto-save: 10m)
+[16:23:56] [Craft Scheduler Thread - 181 - Slimefun/INFO]: [Slimefun] Saving block data for world "world" (1 change(s) queued)
+[16:24:20] [Server thread/INFO]: .CensingSmile123 issued server command: /itemname Official Mojang Mappings
