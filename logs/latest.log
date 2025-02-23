@@ -1685,3 +1685,10 @@ Caused by: java.lang.ClassNotFoundException: de.diddiz.LogBlock.util.LoggingUtil
 [16:43:56] [Craft Scheduler Thread - 206 - Slimefun/INFO]: [Slimefun] Saving block data for world "world" (1 change(s) queued)
 [16:48:03] [Server thread/INFO]: .CensingSmile123 issued server command: /npc select
 [16:48:06] [Server thread/INFO]: .CensingSmile123 issued server command: /npc inventory
+[16:51:24] [Server thread/INFO]: [Essentials] Created a User for Notch (a5d5ec32-e4d7-219c-92e4-a94c51cb79d7) for non Bukkit type: net.citizensnpcs.nms.v1_21_R3.entity.EntityHumanNPC$PlayerNPC
+[16:51:29] [Server thread/INFO]: Notch was slain by .CensingSmile123
+[16:52:01] [Server thread/INFO]: .CensingSmile123 issued server command: /npc inventory
+[16:52:27] [Server thread/INFO]: [Essentials] Created a User for md_5 (2263b51d-7adc-2870-aa6e-a673b0e14a8b) for non Bukkit type: net.citizensnpcs.nms.v1_21_R3.entity.EntityHumanNPC$PlayerNPC
+[16:52:32] [Server thread/INFO]: .CensingSmile123 issued server command: /npc select
+[16:52:35] [Server thread/INFO]: md_5 was slain by .CensingSmile123
+[16:52:38] [Server thread/INFO]: .CensingSmile123 issued server command: /npc inventory
