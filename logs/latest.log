@@ -717,3 +717,9 @@ hello<--[HERE]
 [15:52:52] [Server thread/INFO]: .CensingSmile123 issued server command: /gc
 [15:53:37] [Server thread/INFO]: .CensingSmile123 issued server command: /citizens
 [15:58:58] [Craft Scheduler Thread - 160 - InteractiveChat/INFO]: [Not Secure] .CensingSmile123: sigma boy - md_5
+[16:00:30] [Server thread/INFO]: .CensingSmile123 issued server command: /npc create md_5
+[16:00:43] [Server thread/INFO]: .CensingSmile123 issued server command: /npc vulnerable
+[16:00:58] [Server thread/INFO]: .CensingSmile123 issued server command: /npc path
+[16:02:37] [Server thread/INFO]: .CensingSmile123 issued server command: /exit
+[16:02:43] [Server thread/INFO]: .CensingSmile123 issued server command: /npc path exit
+[16:03:08] [Server thread/INFO]: [Essentials] Created a User for md_5 (1ab287c0-dc16-2f7a-bc74-b68db84183f6) for non Bukkit type: net.citizensnpcs.nms.v1_21_R3.entity.EntityHumanNPC$PlayerNPC
